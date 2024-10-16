@@ -106,4 +106,4 @@ int main() {
 ![](Attachments/Pasted%20image%2020241016160718.png)
 # "&"  Address of
 
-![[Attachments/Pasted image 20241016144815.png]]
+![](Attachments/Pasted%20image%2020241016144815.png)
