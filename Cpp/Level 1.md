@@ -80,4 +80,22 @@ Feel free to copy this macro, but please copy it with this footer a
 
 https://www.reddit.com/user/IyeOnline/comments/10a34s2/the_c_learning_suggestion_macro/
 
-# 
+# std::array & std::fill
+
+```cpp
+#include <algorithm>
+#include <array>
+#include <iostream>
+#include <iterator>
+
+int main() {
+
+  std::array<int, 10> nums;
+  std::fill(std::begin(nums), std::end(nums), 10);
+  for (auto element : nums) {
+    std::cout << element << std::endl;
+  }
+  return 0;
+}
+```
+
