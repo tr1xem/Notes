@@ -110,3 +110,4 @@ int main() {
 ![[Pasted image 20241016144815.png]]
 
 
+![](Pasted%20image%2020241016163548.png)
