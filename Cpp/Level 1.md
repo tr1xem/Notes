@@ -120,3 +120,6 @@ int main() {
 
 ![](Attachments/Pasted%20image%2020241016221655.png)
 
+
+
+![](Attachments/Pasted%20image%2020241016234358.png)
