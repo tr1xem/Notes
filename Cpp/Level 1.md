@@ -110,5 +110,3 @@ int main() {
 ![[Pasted image 20241016144815.png]]
 
 
-**
-![Func](https://i.imgur.com/aQmkzhu.png)
