@@ -103,7 +103,9 @@ int main() {
 # Functions
 
 ![](Attachments/Pasted%20image%2020241016134252.png)
+
+
 ![](Attachments/Pasted%20image%2020241016160718.png)
-# "&"  Address of
+# "&"  - Address of
 
 ![](Attachments/Pasted%20image%2020241016144815.png)
