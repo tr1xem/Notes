@@ -104,9 +104,11 @@ int main() {
 
 ![[Pasted image 20241016134252.png]]
 
-
+![[Pasted image 20241016160718.png]]
 # "&"  Address of
 
 ![[Pasted image 20241016144815.png]]
 
 
+**
+![Func](https://i.imgur.com/aQmkzhu.png)
