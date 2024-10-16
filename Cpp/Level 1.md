@@ -107,3 +107,6 @@ int main() {
 
 # "&"  Address of
 
+![[Pasted image 20241016144815.png]]
+
+
