@@ -110,3 +110,9 @@ int main() {
 # "&"  - Address of
 
 ![](Attachments/Pasted%20image%2020241016144815.png)
+
+# Pass Argument as "Value"
+
+
+![](Attachments/Pasted%20image%2020241016212104.png)
+
