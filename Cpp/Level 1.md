@@ -103,3 +103,7 @@ int main() {
 # Functions
 
 ![[Pasted image 20241016134252.png]]
+
+
+# "&"  Address of
+
