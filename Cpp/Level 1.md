@@ -102,13 +102,8 @@ int main() {
 
 # Functions
 
-![[Pasted image 20241016134252.png]]
-
-![[Pasted image 20241016160718.png]]
+![](Attachments/Pasted%20image%2020241016134252.png)
+![](Attachments/Pasted%20image%2020241016160718.png)
 # "&"  Address of
 
-![[Pasted image 20241016144815.png]]
-
-
-![](Pasted%20image%2020241016163548.png)
-![](Attachments/Pasted%20image%2020241016163853.png)
+![[Attachments/Pasted image 20241016144815.png]]
