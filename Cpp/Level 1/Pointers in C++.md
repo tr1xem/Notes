@@ -22,6 +22,26 @@ Simple Example:
 ![](Attachments/Pasted%20image%2020241017124840.png)
 
 
+![](Attachments/Pasted%20image%2020241017125218.png)
+
+# Deferenceing
+
+
+![](Attachments/Pasted%20image%2020241017125301.png)
+
+![](Attachments/Pasted%20image%2020241017125952.png)
+
+## Use of asterisk
+
+![](Attachments/Pasted%20image%2020241017125345.png)
+
+# Summary
+
+![](Attachments/Pasted%20image%2020241017125652.png)
+
+
+
+
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
