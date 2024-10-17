@@ -123,7 +123,43 @@ Fix:
 ![](Attachments/Pasted%20image%2020241017135949.png)
 ![](Attachments/Pasted%20image%2020241017140002.png)
 
-## 2.
+## 2.) Dangling Pointers
+
+
+![](Attachments/Pasted%20image%2020241017140054.png)
+
+## 3.) Double Frees
+
+![](Attachments/Pasted%20image%2020241017140213.png)
+
+
+## And Many More..
+
+![](Attachments/Pasted%20image%2020241017140329.png)
+
+
+# Bugs Mitigation with a wrapper class
+
+
+![](Attachments/Pasted%20image%2020241017140412.png)
+
+
+# Smart Pointers
+
+![](Attachments/Pasted%20image%2020241017140456.png)
+
+
+![](Attachments/Pasted%20image%2020241017140524.png)
+
+![](Attachments/Pasted%20image%2020241017140540.png)
+
+![](Attachments/Pasted%20image%2020241017140603.png)
+
+![](Attachments/Pasted%20image%2020241017140635.png)
+
+![](Attachments/Pasted%20image%2020241017141017.png)
+
+
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
