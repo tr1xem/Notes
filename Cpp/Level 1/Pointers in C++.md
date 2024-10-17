@@ -189,8 +189,8 @@ Fix:
 
 
 
-Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
-[[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
+Full File : ![CPPCON 2021 Back to Basics - Pointers](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
+
 
 
 Codes : https://github.com/MikeShah/cppcon2021
