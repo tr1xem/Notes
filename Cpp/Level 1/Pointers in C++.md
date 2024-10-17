@@ -45,6 +45,13 @@ Simple Example:
 ![](Attachments/Pasted%20image%2020241017130116.png)
 
 
+# Sharing Pointers
+
+![](Attachments/Pasted%20image%2020241017131746.png)
+
+### Arrow Syntax 
+
+![](Attachments/Pasted%20image%2020241017131910.png)
 
 
 
