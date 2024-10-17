@@ -90,6 +90,20 @@ Imp Example : Sizeof
 
 
 ![](Attachments/Pasted%20image%2020241017134047.png)
+![](Attachments/Pasted%20image%2020241017134120.png)
+
+Fix to not let array decay into pointers 
+![](Attachments/Pasted%20image%2020241017134245.png)
+
+# Passing Array with template parameter
+
+![](Attachments/Pasted%20image%2020241017134530.png)
+
+# Dynamically Located Arrays
+
+
+![](Attachments/Pasted%20image%2020241017134559.png)
+
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
