@@ -81,6 +81,15 @@ Imp Example : Sizeof
 ![](Attachments/Pasted%20image%2020241017132919.png)
 
 
+# Array Decay to pointers
+
+
+![](Attachments/Pasted%20image%2020241017133623.png)
+
+![](Attachments/Pasted%20image%2020241017133903.png)
+
+
+![](Attachments/Pasted%20image%2020241017134047.png)
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
