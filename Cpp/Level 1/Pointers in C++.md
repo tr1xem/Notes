@@ -105,6 +105,26 @@ Fix to not let array decay into pointers
 ![](Attachments/Pasted%20image%2020241017134559.png)
 
 
+# Null Pointers
+
+![](Attachments/Pasted%20image%2020241017135627.png)
+
+Fix: 
+
+![](Attachments/Pasted%20image%2020241017135731.png)
+
+# Pitfalls of using Pointers
+
+
+![](Attachments/Pasted%20image%2020241017135807.png)
+
+## 1.) Memory leaks
+
+![](Attachments/Pasted%20image%2020241017135949.png)
+![](Attachments/Pasted%20image%2020241017140002.png)
+
+## 2.
+
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
 
