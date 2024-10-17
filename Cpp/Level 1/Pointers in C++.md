@@ -54,6 +54,33 @@ Simple Example:
 ![](Attachments/Pasted%20image%2020241017131910.png)
 
 
+# Pass by pointers
+
+
+![](Attachments/Pasted%20image%2020241017132102.png)
+
+Notes: 
+
+![](Attachments/Pasted%20image%2020241017132218.png)
+
+
+# Pointers VS Array 
+
+
+Imp Example : Sizeof
+![](Attachments/Pasted%20image%2020241017132516.png)
+
+![](Attachments/Pasted%20image%2020241017132559.png)
+
+### Pointers Arithmetic
+![](Attachments/Pasted%20image%2020241017132754.png)
+
+
+# Array offset and deference
+
+![](Attachments/Pasted%20image%2020241017132919.png)
+
+
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
