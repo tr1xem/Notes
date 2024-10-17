@@ -123,3 +123,11 @@ int main() {
 
 
 ![](Attachments/Pasted%20image%2020241016234358.png)
+
+
+# Pointers - In New File
+
+# Type Def
+
+
+![](Attachments/Pasted%20image%2020241017145532.png)
