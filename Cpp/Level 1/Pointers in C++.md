@@ -14,3 +14,4 @@ Simple Example:
 
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
+[[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
