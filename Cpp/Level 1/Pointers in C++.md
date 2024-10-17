@@ -159,6 +159,17 @@ Fix:
 
 ![](Attachments/Pasted%20image%2020241017141017.png)
 
+![](Attachments/Pasted%20image%2020241017141055.png)
+
+![](Attachments/Pasted%20image%2020241017141145.png)
+
+![](Attachments/Pasted%20image%2020241017141203.png)
+
+
+# Pointers and functions
+
+
+![](Attachments/Pasted%20image%2020241017141228.png)
 
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
