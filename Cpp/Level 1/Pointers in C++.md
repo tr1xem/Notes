@@ -40,8 +40,16 @@ Simple Example:
 ![](Attachments/Pasted%20image%2020241017125652.png)
 
 
+# Pointer to Pointer
+
+![](Attachments/Pasted%20image%2020241017130116.png)
+
+
 
 
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
 [[Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf]]
+
+
+Codes : https://github.com/MikeShah/cppcon2021
