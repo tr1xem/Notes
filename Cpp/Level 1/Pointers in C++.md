@@ -170,6 +170,23 @@ Fix:
 
 
 ![](Attachments/Pasted%20image%2020241017141228.png)
+![](Attachments/Pasted%20image%2020241017143752.png)
+
+![](Attachments/Pasted%20image%2020241017143805.png)
+
+
+![](Attachments/Pasted%20image%2020241017144118.png)
+
+![](Attachments/Pasted%20image%2020241017144156.png)
+
+![](Attachments/Pasted%20image%2020241017144317.png)
+
+# Conclusions
+
+
+![](Attachments/Pasted%20image%2020241017144410.png)
+![](Attachments/Pasted%20image%2020241017144441.png)
+
 
 
 Full File : ![](Attachments/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf)
