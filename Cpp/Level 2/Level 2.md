@@ -22,5 +22,13 @@ in const compiler creates a tmp var and equals it to 10
 
 ```cpp
 
-std::string
+std::string s3 = s1+s2; // will perform concat and then copies the value to s3
+std::string&& s3 = s1+s2; // will just reference to the value of concat
 ```
+
+
+# std::move or  the idea of move semantics
+
+
+![](Attachments/Pasted%20image%2020241018130557.png)
+
