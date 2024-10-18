@@ -23,3 +23,10 @@ A class is a user defined type
 
 ![](Attachments/Pasted%20image%2020241018215842.png)
 
+![](Attachments/Pasted%20image%2020241018221338.png)
+
+![](Attachments/Pasted%20image%2020241018221422.png)
+
+
+![](Attachments/Pasted%20image%2020241018221700.png)
+
