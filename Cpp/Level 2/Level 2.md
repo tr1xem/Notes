@@ -34,3 +34,7 @@ std::string&& s3 = s1+s2; // will just reference to the value of concat
 
 # Interface (.hpp) vs Implementation (.cpp)
 
+![](Attachments/Pasted%20image%2020241018133918.png)
+
+![](Attachments/Pasted%20image%2020241018134321.png)
+
