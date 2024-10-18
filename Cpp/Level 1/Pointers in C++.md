@@ -194,3 +194,7 @@ Full File : ![CPPCON 2021 Back to Basics - Pointers](Attachments/Mike_Shah_CPPCO
 
 
 Codes : https://github.com/MikeShah/cppcon2021
+
+
+# std::unique_ptr
+
