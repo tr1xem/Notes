@@ -32,3 +32,5 @@ std::string&& s3 = s1+s2; // will just reference to the value of concat
 
 ![](Attachments/Pasted%20image%2020241018130557.png)
 
+# Interface (.hpp) vs Implementation (.cpp)
+
