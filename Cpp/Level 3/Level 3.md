@@ -32,3 +32,5 @@ A class is a user defined type
 
 ![](Attachments/Pasted%20image%2020241018222149.png)
 
+# The Rule of 3 and The Rule of 2
+
