@@ -30,3 +30,5 @@ A class is a user defined type
 
 ![](Attachments/Pasted%20image%2020241018221700.png)
 
+![](Attachments/Pasted%20image%2020241018222149.png)
+
