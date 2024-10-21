@@ -43,3 +43,5 @@ Law of big two
 # Avoiding copies
 
 
+![](Attachments/Pasted%20image%2020241021222254.png)
+
