@@ -45,3 +45,7 @@ Law of big two
 
 ![](Attachments/Pasted%20image%2020241021222254.png)
 
+![](Attachments/Pasted%20image%2020241021223043.png)
+
+![](Attachments/Pasted%20image%2020241021223204.png)
+
