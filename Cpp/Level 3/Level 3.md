@@ -36,3 +36,6 @@ A class is a user defined type
 
 ![](Attachments/Pasted%20image%2020241021214340.png)
 
+Law of big two
+
+![](Attachments/Pasted%20image%2020241021214828.png)
