@@ -39,3 +39,7 @@ A class is a user defined type
 Law of big two
 
 ![](Attachments/Pasted%20image%2020241021214828.png)
+
+# Avoiding copies
+
+
