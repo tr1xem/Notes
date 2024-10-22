@@ -49,3 +49,4 @@ Law of big two
 
 ![](Attachments/Pasted%20image%2020241021223204.png)
 
+Better use reference
