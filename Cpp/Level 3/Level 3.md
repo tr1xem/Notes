@@ -56,3 +56,7 @@ Better use reference
 
 ![](Attachments/Pasted%20image%2020241023213822.png)
 
+![](Attachments/Pasted%20image%2020241023214955.png)
+
+![](Attachments/Pasted%20image%2020241023215104.png)
+
