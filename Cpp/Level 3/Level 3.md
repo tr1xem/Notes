@@ -60,3 +60,11 @@ Better use reference
 
 ![](Attachments/Pasted%20image%2020241023215104.png)
 
+++ operator
+
+![](Attachments/Pasted%20image%2020241023215846.png)
+
+Stream operator
+
+![](Attachments/Pasted%20image%2020241023220033.png)
+
