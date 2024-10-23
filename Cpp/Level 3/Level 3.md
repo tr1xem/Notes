@@ -50,3 +50,9 @@ Law of big two
 ![](Attachments/Pasted%20image%2020241021223204.png)
 
 Better use reference
+
+
+# Operator overloading
+
+![](Attachments/Pasted%20image%2020241023213822.png)
+
