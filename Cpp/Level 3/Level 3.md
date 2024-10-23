@@ -73,3 +73,7 @@ Stream operator
 
 # Member Initializer Lists
 
+![](Attachments/Pasted%20image%2020241023221901.png)
+
+![](Attachments/Pasted%20image%2020241023222208.png)
+
