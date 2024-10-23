@@ -68,3 +68,5 @@ Stream operator
 
 ![](Attachments/Pasted%20image%2020241023220033.png)
 
+![](Attachments/Pasted%20image%2020241023220529.png)
+
