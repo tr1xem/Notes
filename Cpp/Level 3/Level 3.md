@@ -77,5 +77,5 @@ Stream operator
 
 ![](Attachments/Pasted%20image%2020241023222208.png)
 
-float x,y,z; matters
+float x,y,z; order matters
 
