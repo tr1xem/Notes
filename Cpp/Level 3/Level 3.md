@@ -79,3 +79,7 @@ Stream operator
 
 float x,y,z; order matters
 
+# Structs
+
+![](Attachments/Pasted%20image%2020241025061609.png)
+
