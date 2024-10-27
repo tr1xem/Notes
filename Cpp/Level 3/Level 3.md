@@ -90,4 +90,7 @@ float x,y,z; order matters
 RAII -- Resource Acquisition is Initialization. This programming concept of RAII is as simple as acquiring resources in the constructor, and releasing any resources that were acquired in the destructor. Understanding that using the lifetime of an object to prevent resource leaks and otherwise handle exceptions is the importance of this concept for writing code that can scale through the lifetime of a project.
 
 
-1
+# Rule of Five
+
+![](Attachments/Pasted%20image%2020241027175435.png)
+
