@@ -85,3 +85,5 @@ float x,y,z; order matters
 
 # RAII -Resource Acquisition is Initialization
 
+![](Attachments/Pasted%20image%2020241027172912.png)
+
