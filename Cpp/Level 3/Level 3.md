@@ -114,3 +114,5 @@ RAII -- Resource Acquisition is Initialization. This programming concept of RAII
 
 ![](Attachments/Pasted%20image%2020241029221224.png)
 
+# Inheritence
+
