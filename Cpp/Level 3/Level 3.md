@@ -125,5 +125,3 @@ RAII -- Resource Acquisition is Initialization. This programming concept of RAII
 # Inheritance - public, private, and protected access levels
 
 
-
-Private
