@@ -137,3 +137,7 @@ Protected cant be accessed  form outside the class
 # Inheritance calling different constructors
 
 
+![](Attachments/Pasted%20image%2020241101201530.png)
+
+![](Attachments/Pasted%20image%2020241101201944.png)
+
