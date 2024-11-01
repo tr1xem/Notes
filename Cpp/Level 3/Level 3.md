@@ -153,3 +153,4 @@ Protected cant be accessed  form outside the class
 
 ![](Attachments/Pasted%20image%2020241101214102.png)
 
+# Virtual Destructors
