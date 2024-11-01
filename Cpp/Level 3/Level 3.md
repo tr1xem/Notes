@@ -141,3 +141,6 @@ Protected cant be accessed  form outside the class
 
 ![](Attachments/Pasted%20image%2020241101201944.png)
 
+# Virtual Funcs
+
+
