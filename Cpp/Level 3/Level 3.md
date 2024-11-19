@@ -159,3 +159,8 @@ Protected cant be accessed  form outside the class
 
 # Vtables
 
+
+![](Attachments/Pasted%20image%2020241119162654.png)
+
+![](Attachments/Pasted%20image%2020241119162811.png)
+
