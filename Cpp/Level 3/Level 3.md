@@ -172,3 +172,5 @@ Protected cant be accessed  form outside the class
 
 # CAUTION Multiple Inheritance
 
+![](Attachments/Pasted%20image%2020241208205236.png)
+
