@@ -164,3 +164,7 @@ Protected cant be accessed  form outside the class
 
 ![](Attachments/Pasted%20image%2020241119162811.png)
 
+# Interfaces
+
+![](Attachments/Pasted%20image%2020241208195028.png)
+
