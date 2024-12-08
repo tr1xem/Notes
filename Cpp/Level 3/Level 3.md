@@ -185,3 +185,9 @@ Protected cant be accessed  form outside the class
 
 # Curly brace versus parenthesis and std::initializer_list
 
+![](Attachments/Pasted%20image%2020241208214919.png)
+
+![](Attachments/Pasted%20image%2020241208215333.png)
+
+# ### Composition (and aggregation) versus Inheritance in C++
+
