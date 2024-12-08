@@ -169,3 +169,6 @@ Protected cant be accessed  form outside the class
 ![](Attachments/Pasted%20image%2020241208195028.png)
 
 ![](Attachments/Pasted%20image%2020241208201548.png)
+
+# CAUTION Multiple Inheritance
+
