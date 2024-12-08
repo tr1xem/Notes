@@ -191,3 +191,7 @@ Protected cant be accessed  form outside the class
 
 # ### Composition (and aggregation) versus Inheritance in C++
 
+![](Attachments/Pasted%20image%2020241208220403.png)
+
+![](Attachments/Pasted%20image%2020241208220630.png)
+
