@@ -174,3 +174,5 @@ Protected cant be accessed  form outside the class
 
 ![](Attachments/Pasted%20image%2020241208205236.png)
 
+![](Attachments/Pasted%20image%2020241208210757.png)
+
