@@ -195,3 +195,10 @@ Protected cant be accessed  form outside the class
 
 ![](Attachments/Pasted%20image%2020241208220630.png)
 
+# ###  Multiple Inheritance Revisited (Virtual inheritance)
+
+![](Attachments/Pasted%20image%2020241208220931.png)
+
+
+![](Attachments/Pasted%20image%2020241208221137.png)
+![](Attachments/Pasted%20image%2020241208221202.png)
