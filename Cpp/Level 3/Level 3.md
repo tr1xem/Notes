@@ -178,3 +178,6 @@ Protected cant be accessed  form outside the class
 
 # Const correctness
 
+![](Attachments/Pasted%20image%2020241208213452.png)
+
+
