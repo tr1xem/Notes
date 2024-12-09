@@ -8,4 +8,5 @@
 dosent work with constructors
 ![](Attachments/Pasted%20image%2020241209214517.png)
 
-![](Attachments/Pasted%20image%2020241209214608.png)
+![](Attachments/Pasted%20image%2020241209214723.png)
+
