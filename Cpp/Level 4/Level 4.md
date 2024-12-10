@@ -15,3 +15,21 @@ dosent work with constructors
 ![](Attachments/Pasted%20image%2020241210132049.png)
 
 ![](Attachments/Pasted%20image%2020241210132142.png)
+
+
+# ###  Delegating Constructors
+
+DRY = Dont repeat yourself
+
+![](Attachments/Pasted%20image%2020241210134125.png)
+
+
+
+![](Attachments/Pasted%20image%2020241210134203.png)
+
+Good: 
+
+![](Attachments/Pasted%20image%2020241210134342.png)
+
+![](Attachments/Pasted%20image%2020241210134515.png)
+
