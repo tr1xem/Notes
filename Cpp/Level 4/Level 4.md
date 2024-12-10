@@ -12,3 +12,6 @@ dosent work with constructors
 
 # ### In-Class Initializer
 
+![](Attachments/Pasted%20image%2020241210132049.png)
+
+![](Attachments/Pasted%20image%2020241210132142.png)
