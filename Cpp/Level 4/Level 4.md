@@ -33,3 +33,5 @@ Good:
 
 ![](Attachments/Pasted%20image%2020241210134515.png)
 
+# ### - Class Data Layout (Optimizing for size)
+
