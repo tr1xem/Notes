@@ -35,3 +35,7 @@ Good:
 
 # ### - Class Data Layout (Optimizing for size)
 
+![](Attachments/Pasted%20image%2020250106201457.png)
+
+![](Attachments/Pasted%20image%2020250106201953.png)
+
