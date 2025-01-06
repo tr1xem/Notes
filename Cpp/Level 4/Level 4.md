@@ -39,3 +39,10 @@ Good:
 
 ![](Attachments/Pasted%20image%2020250106201953.png)
 
+# ###  pIMPL (pointer to implementation)
+
+![](Attachments/Pasted%20image%2020250106202531.png)
+
+![](Attachments/Pasted%20image%2020250106202840.png)
+![](Attachments/Pasted%20image%2020250106203032.png)
+
