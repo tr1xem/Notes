@@ -45,5 +45,3 @@ Good:
 
 ![](Attachments/Pasted%20image%2020250106202840.png)
 ![](Attachments/Pasted%20image%2020250106203032.png)
-
-![](Attachments/Pasted%20image%2020250513083229.png)
