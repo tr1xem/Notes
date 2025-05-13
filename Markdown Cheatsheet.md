@@ -1,6 +1,6 @@
-Markdown Cheatsheet
+Markdown Cheat sheet
 ===================
-This cheatsheet is intended as a quick reference and showcase of the markdown syntax in [QOwnNotes](https://www.qownnotes.org).
+This cheat sheet is intended as a quick reference and showcase of the markdown syntax in [QOwnNotes](https://www.qownnotes.org).
 ## Headers
 ```markdown
 # H1
@@ -21,8 +21,7 @@ Alt-H2
 
 # H1
 ## H2
-a
-fa
+
 ### H3
 #### H4
 ##### H5
