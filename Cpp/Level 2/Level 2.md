@@ -2,14 +2,14 @@
 
 # Lvalue and Rvalue
 
-![](Attachments/Pasted%20image%2020241018124107.png)
+![](Pasted%20image%2020241018124107.png)
 
-![](Attachments/Pasted%20image%2020241018124327.png)
+![](Pasted%20image%2020241018124327.png)
 sometimes (a+b) is called xvalue (expiring value)
 
 ## Lvalue Reference
 
-![](Attachments/Pasted%20image%2020241018124804.png)
+![](Pasted%20image%2020241018124804.png)
 ```cpp
 const int& ref = 10; // works
 int& ref = 10; // gives error
@@ -18,7 +18,7 @@ in const compiler creates a tmp var and equals it to 10
 
 ## Rvalue Reference
 
-![](Attachments/Pasted%20image%2020241018125700.png)
+![](Pasted%20image%2020241018125700.png)
 
 ```cpp
 
@@ -30,11 +30,11 @@ std::string&& s3 = s1+s2; // will just reference to the value of concat
 # std::move or  the idea of move semantics
 
 
-![](Attachments/Pasted%20image%2020241018130557.png)
+![](Pasted%20image%2020241018130557.png)
 
 # Interface (.hpp) vs Implementation (.cpp)
 
-![](Attachments/Pasted%20image%2020241018133918.png)
+![](Pasted%20image%2020241018133918.png)
 
-![](Attachments/Pasted%20image%2020241018134321.png)
+![](Pasted%20image%2020241018134321.png)
 

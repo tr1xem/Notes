@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpp/Level 1/Level 1.md",
+                "file": "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 1"
+              "title": "Notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "dcada09ee03befe9",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpp/Level 1/Level 1.md",
+                "file": "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Level 1"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpp/Level 1/Level 1.md",
+                "file": "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Level 1"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpp/Level 1/Level 1.md",
+                "file": "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Level 1"
+              "title": "Outline of Notes"
             }
           }
         ]
@@ -186,11 +186,22 @@
   },
   "active": "286624e73877a025",
   "lastOpenFiles": [
-    "Cpp/Level 1/Attachments/Pasted image 20241016212104.png",
-    "Cpp/Level 1/Level 1.md",
+    "Cpp/Level 1/02 - or-loop, ranged based for-loop, while, do-while, and std fill/Notes.md",
+    "Cpp/Level 1/00 - Old Notes/Level 1.md",
+    "Cpp/Level 1/00 - Old Notes",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
+    "Cpp/Level 1/02 - or-loop, ranged based for-loop, while, do-while, and std fill",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/attachments/Pasted image 20260211214714.png",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/attachments",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/main.cpp~",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/main",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++/main.cpp",
+    "Cpp/Level 1/01 - Raw Arrays and std array in C++",
+    "Cpp/Level 1/Untitled.md",
+    "Cpp/Level 1/00 - Old Notes/attachments/Pasted image 20241016212104.png",
     "Other Resources.md",
     "Attachments/Pasted image 20260211132927.png",
-    "Attachments/Pasted image 20250513084551.png",
+    "attachments/Pasted image 20250513084551.png",
     "Pasted image 20260211132653.png",
     "Markdown Cheatsheet.md"
   ]
