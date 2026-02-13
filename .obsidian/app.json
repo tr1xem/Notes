@@ -2,5 +2,6 @@
   "attachmentFolderPath": "./attachments",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "vimMode": true
 }

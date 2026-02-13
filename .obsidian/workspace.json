@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91f1ac33ea03fc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
             "id": "812e52583ed3ef92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpp/Level 1/00 - Old Notes/Level 1.md",
+                "file": "C++/Level 2/00 - Old Notes/Level 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 1"
+              "title": "Level 2"
+            }
+          },
+          {
+            "id": "fb00a7dddbdbbde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,45 +199,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91f1ac33ea03fc58",
+  "active": "fb00a7dddbdbbde2",
   "lastOpenFiles": [
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/attachments/Pasted image 20260213164724.png",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/attachments/Pasted image 20260213164714.png",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/main.cpp~",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/attachments/Pasted image 20260213164624.png",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/attachments",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/main",
-    "Cpp/Level 1/06 - C++ Functions - Understand Pass by Reference Semantics/main.cpp~",
-    "Cpp/Level 1/07 - Functions in C++ with const parameters and why bonus std is_const/Notes.md",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/main.cpp",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?",
-    "Cpp/Level 1/09 - What is a pointer, dereferencing, and the point of pointers?/main.cpp",
-    "Cpp/Level 1/09 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-    "Cpp/Level 1/09 - What is a pointer, dereferencing, and the point of pointers?",
-    "Cpp/Level 1/notes~",
-    "Cpp/Level 1/08 - Pointers",
-    "Cpp/Level 1/07 - Functions in C++ with const parameters and why bonus std is_const/attachments/Pasted image 20260213153206.png",
-    "Cpp/Level 1/06 - C++ Functions - Understand Pass by Reference Semantics/Notes.md",
-    "Cpp/Level 1/00 - Old Notes/Level 1.md",
-    "Cpp/Level 1/05 - references in c another use of the symbol/Notes.md",
-    "Cpp/Level 1/05 - references in C++ another use of the symbol/Notes.md",
-    "Cpp/Level 1/04 - C++ functions understanding pass by value semantics/Notes.md",
-    "Cpp/Level 1/06 - c functions understand pass by reference semantics/Notes.md",
-    "Cpp/Level 1/04 - c functions understanding pass by value semantics/Notes.md",
-    "Cpp/Level 1/03 - address of operator/Notes.md",
-    "Cpp/Level 1/00 - Old Notes/attachments/Pasted image 20241016144815.png",
-    "Cpp/Level 1/02 - or-loop, ranged based for-loop, while, do-while, and std fill/Notes.md",
-    "Cpp/Level 4/Level 4.md",
-    "Cpp/Level 1/01 - Raw Arrays and std array in C++/Notes.md",
-    "Debugging/Debugging.md",
-    "Cpp/Level 1/01 - Raw Arrays and std array in C++/attachments/Pasted image 20260211214714.png",
-    "Cpp/Level 1/Untitled.md",
-    "Cpp/Level 1/00 - Old Notes/attachments/Pasted image 20241016212104.png",
+    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
+    "README.md.md",
+    "C++/Level 2/00 - Old Notes/Level 2.md",
+    "Markdown Cheatsheet.md",
+    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/main.cpp",
+    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references",
+    "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/main.cpp",
+    "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
+    "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references",
     "Other Resources.md",
-    "Attachments/Pasted image 20260211132927.png",
+    "Cpp/Level 2/Level 2.md",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018134321.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018133918.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018130557.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018125700.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124804.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124728.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124327.png",
+    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124107.png",
+    "C++/Level 2/00 - Old Notes/attachments",
+    "C++/Level 2/00 - Old Notes",
+    "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
     "attachments/Pasted image 20250513084551.png",
-    "Pasted image 20260211132653.png",
-    "Markdown Cheatsheet.md"
+    "C++/Level 1/14 - Function pointers, typedef a function pointer, and std function/Notes.md",
+    "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/main.cpp",
+    "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references",
+    "Cpp/Level 1/14 - Function pointers, typedef a function pointer, and std function/main.cpp~",
+    "C++/Level 1/14 - Function pointers, typedef a function pointer, and std function/main",
+    "C++/Level 1/13 - Pitfalls of Pointers (and using address sanitizer and gdb to find them)/Notes.md",
+    "C++/Level 1/13 - Pitfalls of Pointers (and using address sanitizer and gdb to find them)/attachments/snapshot.jpg",
+    "C++/Level 1/12 - Passing arrays into functions(array decay to pointer)- prefer std vector/Notes.md",
+    "C++/Level 1/11 - Misunderstanding the use of sizeof/Notes.md",
+    "C++/Level 1/10 - Pointer Arithmetic, Array Offsets, and exposing how brackets dereference/Notes.md",
+    "C++/Level 1/00 - Old Notes/Pointers in C++.md",
+    "C++/Level 1/08 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
+    "C++/Level 1/09 - Dynamic Memory allocation with new and delete (and delete[])/Notes.md",
+    "Cpp/Level 1/08 - Pointer Arithmetic, Array Offsets, and exposing how brackets dereference/Notes.md",
+    "C++/Level 1/00 - Old Notes/Level 1.md",
+    "Cpp/Level 1/08 - Pointers/09 - Dynamic Memory allocation with new and delete (and delete[)/Notes.md",
+    "Cpp/Level 1/09 - Dynamic Memory allocation with new and delete (and delete[)/Notes.md",
+    "Cpp/Level 1/08 - Pointers/02 - Dynamic Memory allocation with new and delete (and delete[)/Notes.md",
+    "Cpp/Level 1/08 - Pointers/08 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
+    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
+    "C++/Level 1/07 - Functions in C++ with const parameters and why bonus std is_const/Notes.md",
+    "Cpp/Level 1/09 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
+    "C++/Level 1/06 - C++ Functions - Understand Pass by Reference Semantics/Notes.md"
   ]
 }
