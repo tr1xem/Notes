@@ -7,4 +7,4 @@ Following Mike Shah's C++ playlist: https://www.youtube.com/playlist?list=PLvv0S
 
 ## Debugging in GDB 
 
-Udemy course from Mike Shah.
+Udemy course from Mike Shah : https://courses.mshah.io/
