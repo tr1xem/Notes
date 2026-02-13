@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Notes"
             }
           }
         ],
@@ -201,7 +201,20 @@
   },
   "active": "fb00a7dddbdbbde2",
   "lastOpenFiles": [
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments/Pasted image 20260213205334.png",
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments/snapshot.jpg",
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments",
+    "C++/Level 2/02 - Introduction to std move in C++/Notes.md",
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/main.cpp",
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/Notes.md",
+    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer",
+    "C++/Level 2/02 - Introduction to std move in C++/main",
+    "C++/Level 2/02 - Introduction to std move in C++/main.cpp~",
+    "C++/Level 2/02 - Introduction to std move in C++/attachments/snapshot.jpg",
+    "C++/Level 2/02 - Introduction to std move in C++/attachments",
     "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
+    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/attachments/snapshot.jpg",
+    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/attachments",
     "README.md",
     "C++/Level 2/00 - Old Notes/Level 2.md",
     "Markdown Cheatsheet.md",
@@ -209,7 +222,6 @@
     "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references",
     "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/main.cpp",
     "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
-    "Cpp/Level 2/15 - lvalue, rvalue, lvalue references and an intro to rvalue references",
     "Other Resources.md",
     "Cpp/Level 2/Level 2.md",
     "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018134321.png",
@@ -219,18 +231,9 @@
     "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124804.png",
     "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124728.png",
     "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124327.png",
-    "C++/Level 2/00 - Old Notes/attachments/Pasted image 20241018124107.png",
-    "C++/Level 2/00 - Old Notes/attachments",
-    "C++/Level 2/00 - Old Notes",
     "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
-    "attachments/Pasted image 20250513084551.png",
     "C++/Level 1/14 - Function pointers, typedef a function pointer, and std function/Notes.md",
-    "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references/main.cpp",
-    "Cpp/Level 1/15 - lvalue, rvalue, lvalue references and an intro to rvalue references",
-    "Cpp/Level 1/14 - Function pointers, typedef a function pointer, and std function/main.cpp~",
-    "C++/Level 1/14 - Function pointers, typedef a function pointer, and std function/main",
     "C++/Level 1/13 - Pitfalls of Pointers (and using address sanitizer and gdb to find them)/Notes.md",
-    "C++/Level 1/13 - Pitfalls of Pointers (and using address sanitizer and gdb to find them)/attachments/snapshot.jpg",
     "C++/Level 1/12 - Passing arrays into functions(array decay to pointer)- prefer std vector/Notes.md",
     "C++/Level 1/11 - Misunderstanding the use of sizeof/Notes.md",
     "C++/Level 1/10 - Pointer Arithmetic, Array Offsets, and exposing how brackets dereference/Notes.md",
@@ -243,9 +246,6 @@
     "Cpp/Level 1/09 - Dynamic Memory allocation with new and delete (and delete[)/Notes.md",
     "Cpp/Level 1/08 - Pointers/02 - Dynamic Memory allocation with new and delete (and delete[)/Notes.md",
     "Cpp/Level 1/08 - Pointers/08 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-    "C++/Level 1/07 - Functions in C++ with const parameters and why bonus std is_const/Notes.md",
-    "Cpp/Level 1/09 - What is a pointer, dereferencing, and the point of pointers?/Notes.md",
-    "C++/Level 1/06 - C++ Functions - Understand Pass by Reference Semantics/Notes.md"
+    "Cpp/Level 1/08 - Pointers/01 - What is a pointer, dereferencing, and the point of pointers?/Notes.md"
   ]
 }
