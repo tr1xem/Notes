@@ -1,0 +1,5 @@
+# std::shared_ptr - A reference counted smart pointer
+
+If p1 and p2 are pointing to same resource 
+The resource would only get deallocated when "all" pointers go out of scope and get destroyed
+![](attachments/Pasted%20image%2020260214143110.png)

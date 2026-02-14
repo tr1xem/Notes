@@ -10,3 +10,8 @@
 
 - They delete themself once out of scope
 ![](attachments/Pasted%20image%2020260213205334.png)
+
+![](attachments/Pasted%20image%2020260214133728.png)
+
+![](attachments/Pasted%20image%2020260214134203.png)
+
