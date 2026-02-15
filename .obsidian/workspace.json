@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/Notes.md",
+                "file": "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,25 +201,29 @@
   },
   "active": "fb00a7dddbdbbde2",
   "lastOpenFiles": [
+    "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)/main.cpp~",
+    "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)/main.cpp",
+    "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)/Notes.md",
+    "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/attachments/Pasted image 20260215184836.png",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/attachments",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/main.cpp~",
+    "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/Notes.md",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/main.cpp",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/Notes.md",
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++",
+    "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/main.cpp~",
+    "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/main",
     "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/Notes.md",
     "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/main.cpp",
-    "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/Notes.md",
     "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list",
     "C++/Level 3/12 - Classes part 15 - Inheritance calling different constructors/Notes.md",
     "C++/Level 3/00 - Old Notes/Level 3.md",
     "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/attachments/Pasted image 20260215172702.png",
-    "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/attachments",
     "C++/Level 3/14 - Classes part 19 - Interfaces in C++ (Pure virtual functions)/Notes.md",
-    "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/main.cpp",
-    "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions",
-    "C++/Level 3/14 - Classes part 19 - Interfaces in C++ (Pure virtual functions)/main.cpp~",
     "C++/Level 3/13 - Classes part 16 - Virtual Functions (Dynamic dispatch)/Notes.md",
-    "C++/Level 3/14 - Classes part 19 - Interfaces in C++ (Pure virtual functions)/main.cpp",
-    "C++/Level 3/14 - Classes part 19 - Interfaces in C++ (Pure virtual functions)",
     "C++/Level 3/13 - Classes part 16 - Virtual Functions (Dynamic dispatch)/attachments/Pasted image 20260215170006.png",
     "C++/Level 3/13 - Classes part 16 - Virtual Functions (Dynamic dispatch)/attachments/Pasted image 20260215165933.png",
-    "C++/Level 3/13 - Classes part 16 - Virtual Functions (Dynamic dispatch)/attachments",
-    "C++/Level 3/13 - Classes part 16 - Virtual Functions (Dynamic dispatch)/main.cpp~",
     "C++/Level 3/11 - Classes part 13 - Introduction to Inheritance/Notes.md",
     "C++/Level 3/11 - Classes part 13 - Introduction to Inheritance/attachments/Pasted image 20260215161831.png",
     "C++/Level 3/11 - Classes part 13 - Introduction to Inheritance/attachments/Pasted image 20260215160249.png",
@@ -242,9 +246,6 @@
     "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/Notes.md",
     "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments/Pasted image 20260214134203.png",
     "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments/Pasted image 20260214133728.png",
-    "C++/Level 2/03 - std unique_ptr - A scoped smart pointer/attachments/Pasted image 20260213205334.png",
-    "C++/Level 2/02 - Introduction to std move in C++/Notes.md",
-    "C++/Level 2/01 - lvalue, rvalue, lvalue references and an intro to rvalue references/Notes.md",
-    "README.md"
+    "C++/Level 2/02 - Introduction to std move in C++/Notes.md"
   ]
 }
