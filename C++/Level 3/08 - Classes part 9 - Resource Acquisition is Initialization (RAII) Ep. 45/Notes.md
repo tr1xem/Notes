@@ -1,0 +1,6 @@
+# Classes part 9 - Resource Acquisition is Initialization (RAII) Ep. 45
+
+
+Resource Acquisition Is Initialization
+
+Important because it would even release resource even when exception is thrown

@@ -2,8 +2,8 @@
 
 int main() {
 
-    Student trix;
-    trix.m_name = "Trix";
+    Student trix("trix");
+    // trix.m_name = "Trix";
     trix.printName();
 
     Student foo;
