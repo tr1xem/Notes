@@ -1,0 +1,14 @@
+#include <iostream>
+
+template <typename T> T sum(T arg) { return arg; }
+
+template <typename T, typename... Args> T sum(T start, Args... args) {
+    return start + sum(args...);
+}
+
+int main() {
+
+    std::cout << sum(1, 2, 3, 4, 5, 6) << std::endl;
+
+    return 0;
+}
