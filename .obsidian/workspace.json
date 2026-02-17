@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 6/02 - Unions/Notes.md",
+                "file": "C++/Level 6/03 - std variant (tagged unions, write safer code)/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,8 +201,15 @@
   },
   "active": "fb00a7dddbdbbde2",
   "lastOpenFiles": [
-    "C++/Level 6/03 - std variant (tagged unions, write safer code)/main",
+    "C++/Level 6/:w",
+    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/main",
+    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/main.cpp~",
+    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/main.cpp",
+    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/Notes.md",
+    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)",
+    "C++/Level 6/02 - Unions/Notes.md",
     "C++/Level 6/03 - std variant (tagged unions, write safer code)/main.cpp~",
+    "C++/Level 6/03 - std variant (tagged unions, write safer code)/main",
     "C++/Level 6/03 - std variant (tagged unions, write safer code)/main.cpp",
     "C++/Level 6/03 - std variant (tagged unions, write safer code)/Notes.md",
     "C++/Level 6/03 - std variant (tagged unions, write safer code)",
@@ -210,13 +217,7 @@
     "C++/Level 6/02 - Unions/attachments",
     "C++/Level 5/07 - Generics in C++ 9 - Class Template Argument Deduction (CTAD)/Notes.md",
     "C++/Level 6/02 - Unions/main.cpp",
-    "C++/Level 6/02 - Unions/Notes.md",
-    "C++/Level 6/02 - Unions",
-    "C++/Level 6/01 - Revisiting std unique_ptr and Custom Deleters/main.cpp~",
-    "C++/Level 6/01 - Revisiting std unique_ptr and Custom Deleters/main",
-    "C++/Level 6/01 - Revisiting std unique_ptr and Custom Deleters/main.cpp",
     "C++/Level 6/01 - Revisiting std unique_ptr and Custom Deleters/Notes.md",
-    "C++/Level 6/01 - Revisiting std unique_ptr and Custom Deleters",
     "C++/Level 5/08 - Generics in C++ 10 - Templates Class default parameters/Notes.md",
     "C++/Level 5/06 - Generics in C++ 7 - Template Classes Introduction/Notes.md",
     "C++/Level 5/05 - Generics in C++ 5 - Variadic arguments and Variadic Function Templates/Notes.md",
@@ -245,7 +246,6 @@
     "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/Notes.md",
     "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/Notes.md",
     "C++/Level 3/12 - Classes part 15 - Inheritance calling different constructors/Notes.md",
-    "C++/Level 3/00 - Old Notes/Level 3.md",
     "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/attachments/Pasted image 20260215172702.png"
   ]
 }
