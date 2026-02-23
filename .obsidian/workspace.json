@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 6/05 - API Design - Two Tips: pimpl idiom and ‘struct Options’/Notes.md",
+                "file": "Vim Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Vim Cheatsheet"
             }
           }
         ],
@@ -201,6 +201,14 @@
   },
   "active": "fb00a7dddbdbbde2",
   "lastOpenFiles": [
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)/Notes.md",
+    "Vim Cheatsheet.md",
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)/attachments/Pasted image 20260220212619.png",
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)/attachments/Pasted image 20260220204740.png",
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)/attachments",
+    "C++/Level 6/05 - API Design - Two Tips: pimpl idiom and ‘struct Options’/Notes.md",
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)/main.cpp",
+    "C++/Level 6/07 - C++ Casting - Part 3 - static_cast and dynamic_cast (mega lesson)",
     "C++/Level 6/06 - C++ Casting - Part 1 - Types, conversions, and C-style casts/main.cpp~",
     "C++/Level 6/main.cpp~",
     "C++/Level 6/main",
@@ -210,11 +218,6 @@
     "C++/Level 6/06 - C++ Casting - Part 1 - Types, conversions, and C-style casts/Notes.md",
     "C++/Level 6/06 - C++ Casting - Part 1 - Types, conversions, and C-style casts",
     "C++/Level 6/03 - std variant (tagged unions, write safer code)/Notes.md",
-    "C++/Level 6/05 - API Design - Two Tips: pimpl idiom and ‘struct Options’/main.cpp",
-    "C++/Level 6/05 - API Design - Two Tips: pimpl idiom and ‘struct Options’/Notes.md",
-    "C++/Level 6/05 - API Design - Two Tips: pimpl idiom and ‘struct Options’",
-    "C++/Level 6/:w",
-    "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/main",
     "C++/Level 6/04 - Write secure code with assertions (assert and static_assert)/Notes.md",
     "C++/Level 6/02 - Unions/Notes.md",
     "C++/Level 6/02 - Unions/attachments/Pasted image 20260216155956.png",
@@ -243,9 +246,6 @@
     "C++/Level 4/00 - Old Notes/Level 4.md",
     "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)/Notes.md",
     "C++/Level 3/18 - Classes part 24 - Multiple Inheritance Revisited (Virtual inheritance)/attachments/Pasted image 20260215225654.png",
-    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/Notes.md",
-    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/attachments/Pasted image 20260215184836.png",
-    "C++/Level 3/16 - Classes Part 22 - Curly brace versus parenthesis and std initializer_list/Notes.md",
-    "C++/Level 3/15 - Classes part 21 - ‘const correctness' with member functions/attachments/Pasted image 20260215172702.png"
+    "C++/Level 3/17 - Classes part 23 - Composition (and aggregation) versus Inheritance in C++/Notes.md"
   ]
 }
