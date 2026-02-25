@@ -1,7 +1,7 @@
 * Misunderstanding the use of sizeof
 
--- Sizeof should not be used to determine the size of any type which is being allocated at runtime 
--- It shows the size of element which was at compile time which does not guarantee would have considered the allocated size  
+-- Sizeof should not be used to determine the size of any type which is being allocated at runtime
+-- It shows the size of element which was at compile time which does not guarantee would have considered the allocated size
 .image assets/snapshot.jpg
 
 Here its showing dynamically allocated array as 8 because its just it stores the pointer to the memory location where its being allocated

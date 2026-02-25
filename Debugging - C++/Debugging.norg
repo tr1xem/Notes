@@ -1,14 +1,14 @@
-`#define DEBUG` debugging 
+* Mike Shah GDB Course
 
-![](assets/mpv-shot0004.jpg)
+** *define DEBUG* debugging
 
-
+.image assets/mpv-shot0004.jpg
 
 Add a flag -g in `g++ -g main.c -o main` to add debugging flags
 
-Add a `-o0` to have no compiler optimisation 
+Add a `-o0` to have no compiler optimisation
 
-## Commands
+** Commands
 
 - start
 - next - Run function
@@ -18,13 +18,15 @@ Add a `-o0` to have no compiler optimisation
 - whatis `varname` - returns type of var
 - ptype `varname` - returns more info about var like classname or struct name
 - scope info `func name` - returns var in that scope
-## 003 Printing Values and Listing Source Code
 
-![](assets/mpv-shot0004.jpg)
+** 003 Printing Values and Listing Source Code
 
-![](assets/mpv-shot0005.jpg)
+.image assets/mpv-shot0004.jpg
 
-^ Print like refrence 
+.image assets/mpv-shot0005.jpg
+
+   ^ Print like refrence
 
 
-![](assets/mpv-shot0008.jpg)
+.image assets/mpv-shot0008.jpg
+
