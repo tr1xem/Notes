@@ -1,6 +1,6 @@
 `#define DEBUG` debugging 
 
-![](attachments/mpv-shot0003.jpg)
+![](assets/mpv-shot0004.jpg)
 
 
 
@@ -20,11 +20,11 @@ Add a `-o0` to have no compiler optimisation
 - scope info `func name` - returns var in that scope
 ## 003 Printing Values and Listing Source Code
 
-![](attachments/mpv-shot0004.jpg)
+![](assets/mpv-shot0004.jpg)
 
-![](attachments/mpv-shot0005.jpg)
+![](assets/mpv-shot0005.jpg)
 
 ^ Print like refrence 
 
 
-![](attachments/mpv-shot0008.jpg)
+![](assets/mpv-shot0008.jpg)

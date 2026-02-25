@@ -1,4 +1,4 @@
 # Introduction to std::move in C++
 
-![](attachments/snapshot.jpg)
+![](assets/snapshot.jpg)
 CRAZYYYY!!!

@@ -4,6 +4,6 @@
 
 ## Classes part 18 - Understanding the vtable (Popular interview question)
 
-![](attachments/Pasted%20image%2020260215165933.png)
+![](assets/Pasted%20image%2020260215165933.png)
 
-![](attachments/Pasted%20image%2020260215170006.png)
+![](assets/Pasted%20image%2020260215170006.png)

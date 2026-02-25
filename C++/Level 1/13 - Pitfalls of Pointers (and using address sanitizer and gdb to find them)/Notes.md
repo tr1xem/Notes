@@ -5,7 +5,7 @@
 
 De-referencing nullptr
 
-![](attachments/Pasted%20image%2020260213180335.png)
+![](assets/Pasted%20image%2020260213180335.png)
 
 ## Pitfall 2 - Memory leaks
 
@@ -13,7 +13,7 @@ Allocating and never freeing memory
 
 ## Pitfall 3 - Dangling pointer
 
-![](attachments/snapshot.jpg)
+![](assets/snapshot.jpg)
 
 ## Pitfall 4 - Double free
 

@@ -103,26 +103,26 @@ int main() {
 
 # Functions
 
-![](attachments/Pasted%20image%2020241016134252.png)
+![](assets/Pasted%20image%2020241016134252.png)
 
 
-![](attachments/Pasted%20image%2020241016160718.png)
+![](assets/Pasted%20image%2020241016160718.png)
 # "&"  - Address of
 
-![](attachments/Pasted%20image%2020241016144815.png)
+![](assets/Pasted%20image%2020241016144815.png)
 
 # Pass Argument as "Value"
 
 
-![](attachments/Pasted%20image%2020241016212104.png)
+![](assets/Pasted%20image%2020241016212104.png)
 
 # References - "&"
 
-![](attachments/Pasted%20image%2020241016221655.png)
+![](assets/Pasted%20image%2020241016221655.png)
 
 
 
-![](attachments/Pasted%20image%2020241016234358.png)
+![](assets/Pasted%20image%2020241016234358.png)
 
 
 # Pointers - In New File
@@ -130,10 +130,10 @@ int main() {
 # Type Def
 
 
-![](attachments/Pasted%20image%2020241017145532.png)
+![](assets/Pasted%20image%2020241017145532.png)
 
 
 # Std::functions
 
-![](attachments/Pasted%20image%2020241017145642.png)
+![](assets/Pasted%20image%2020241017145642.png)
 

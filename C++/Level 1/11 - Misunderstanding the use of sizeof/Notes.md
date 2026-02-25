@@ -2,10 +2,10 @@
 
 - Sizeof should not be used to determine the size of any type which is being allocated at runtime 
 - It shows the size of element which was at compile time which does not guarantee would have considered the allocated size  
-![](attachments/snapshot.jpg)
+![](assets/snapshot.jpg)
 
 Here its showing dynamically allocated array as 8 because its just it stores the pointer to the memory location where its being allocated
 
-![](attachments/snapshot%201.jpg)
+![](assets/snapshot%201.jpg)
 
 here for vectors sizeof is just showing the size of data structure which is vector

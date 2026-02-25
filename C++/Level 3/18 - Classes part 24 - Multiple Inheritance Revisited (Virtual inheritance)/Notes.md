@@ -2,7 +2,7 @@
 
 https://en.wikipedia.org/wiki/Virtual_inheritance
 
-![](attachments/Pasted%20image%2020260215225654.png)
+![](assets/Pasted%20image%2020260215225654.png)
 
 
 

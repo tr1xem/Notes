@@ -2,4 +2,4 @@
 
 `void setvalue() const{}` the thing wt const would do is that any var cant be change in setvalue or in any other function inside setvalue which is trying to change any variable
 
-![](attachments/Pasted%20image%2020260215172702.png)
+![](assets/Pasted%20image%2020260215172702.png)
