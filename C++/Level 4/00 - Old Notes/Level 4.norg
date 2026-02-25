@@ -1,0 +1,47 @@
+* Level 4
+
+* Value Initialization (Zero-Initialization of Member Variables)
+
+.image assets/Pasted%20image%2020241209214213.png
+
+
+dosent work with constructors
+.image assets/Pasted%20image%2020241209214517.png
+
+.image assets/Pasted%20image%2020241209214723.png
+
+* ### In-Class Initializer
+
+.image assets/Pasted%20image%2020241210132049.png
+
+.image assets/Pasted%20image%2020241210132142.png
+
+
+* ###  Delegating Constructors
+
+DRY = Dont repeat yourself
+
+.image assets/Pasted%20image%2020241210134125.png
+
+
+
+.image assets/Pasted%20image%2020241210134203.png
+
+Good: 
+
+.image assets/Pasted%20image%2020241210134342.png
+
+.image assets/Pasted%20image%2020241210134515.png
+
+* ### - Class Data Layout (Optimizing for size)
+
+.image assets/Pasted%20image%2020250106201457.png
+
+.image assets/Pasted%20image%2020250106201953.png
+
+* ###  pIMPL (pointer to implementation)
+
+.image assets/Pasted%20image%2020250106202531.png
+
+.image assets/Pasted%20image%2020250106202840.png
+.image assets/Pasted%20image%2020250106203032.png

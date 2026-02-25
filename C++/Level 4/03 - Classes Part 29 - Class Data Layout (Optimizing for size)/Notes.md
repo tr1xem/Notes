@@ -1,6 +1,0 @@
-# Classes Part 29 - Class Data Layout (Optimizing for size)
-
-![](assets/Pasted%20image%2020260216122943.png)
-
-
-Alignment of class is according to the biggest data type in it 

@@ -1,3 +1,0 @@
-# Classes part 11 - friend functions (and why you should probably avoid)
-
-BAD THING AVOID!!!!!

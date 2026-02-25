@@ -1,3 +1,0 @@
-# Classes Part 22 - Curly brace versus parenthesis and std::initializer_list
-
-https://google.github.io/styleguide/cppguide.html#Variable_and_Array_Initialization

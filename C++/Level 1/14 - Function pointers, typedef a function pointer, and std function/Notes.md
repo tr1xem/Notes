@@ -1,3 +1,0 @@
-# Function pointers, typedef a function pointer, and std::function
-
-

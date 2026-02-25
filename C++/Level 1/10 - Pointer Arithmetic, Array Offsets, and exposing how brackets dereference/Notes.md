@@ -1,8 +1,0 @@
-# Pointer Arithmetic, Array Offsets, and exposing how brackets dereference
-
-- If u increment a pointer like `px++` it would increment the size of datatype its pointing to.
-- When we are doing `arrray[2]` we are just off-setting array by `2 * size of the datatype` which is equivalent to `array+2` or `px++;px++` 
-- So we can say that array just stores starting memory location of the chunk
-
-![](assets/Pasted%20image%2020260213173910.png)
-

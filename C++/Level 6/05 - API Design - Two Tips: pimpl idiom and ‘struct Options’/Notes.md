@@ -1,1 +1,0 @@
-# API Design - Two Tips: pimpl idiom and ‘struct Options’

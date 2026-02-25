@@ -1,4 +1,0 @@
-# C++ Classes part 1 - Introduction to C++ class
-
-![](../00%20-%20Old%20Notes/assets/Pasted%20image%2020241018155957.png)
-

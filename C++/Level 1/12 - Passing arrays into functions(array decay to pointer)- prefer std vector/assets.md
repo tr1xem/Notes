@@ -1,5 +1,0 @@
-# Passing arrays into functions(array decay to pointer)- prefer std::vector
-
-
-- When we pass a array into a function C++ treats it as pointer its called array decay to  pointer
-- Use vector when u know the size is gonna be unknown as it have `vector.size` and its resizeable

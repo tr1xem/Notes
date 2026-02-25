@@ -1,1 +1,0 @@
-# Generics in C++ 10 - Templates Class default parameters

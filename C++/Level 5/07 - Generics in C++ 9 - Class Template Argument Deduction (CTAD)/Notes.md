@@ -1,1 +1,0 @@
-# Generics in C++ 9 - Class Template Argument Deduction (CTAD)
