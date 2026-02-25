@@ -128,7 +128,7 @@ RAII -- Resource Acquisition is Initialization. This programming concept of RAII
 
 .image assets/Pasted%20image%2020241031225214.png
 
-Protected cant be accessed  form outside the class 
+Protected cant be accessed  form outside the class
 
 .image assets/Pasted%20image%2020241031225355.png
 

@@ -1,3 +1,5 @@
+* Functions in C++ with const parameters and why bonus std is_const
+
 * Functions in C++ with const parameters and why (bonus std::is_const)
 
 std::is_const just checks if its const or not 

@@ -1,3 +1,5 @@
+* Passing arrays into functions(array decay to pointer)- prefer std vector
+
 * Passing arrays into functions(array decay to pointer)- prefer std::vector
 
 

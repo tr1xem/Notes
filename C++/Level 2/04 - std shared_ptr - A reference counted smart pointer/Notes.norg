@@ -1,3 +1,5 @@
+* std shared_ptr - A reference counted smart pointer
+
 * std::shared_ptr - A reference counted smart pointer
 
 If p1 and p2 are pointing to same resource 

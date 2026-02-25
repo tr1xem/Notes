@@ -1,3 +1,5 @@
+* std unique_ptr - A scoped smart pointer
+
 * std::unique_ptr - A scoped smart pointer
 
 ** The Problems
@@ -14,4 +16,3 @@
 .image assets/Pasted%20image%2020260214133728.png
 
 .image assets/Pasted%20image%2020260214134203.png
-
