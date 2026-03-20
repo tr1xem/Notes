@@ -1,4 +1,4 @@
 * Classes part 23 - Composition (and aggregation) versus Inheritance in C++
 
 
-[[file:./assets/Pasted image 20260215184836.png]]
+[[file:./assets/Pasted-image-20260215184836.png]]

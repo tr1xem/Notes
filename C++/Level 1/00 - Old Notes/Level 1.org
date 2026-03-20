@@ -96,29 +96,29 @@ int main() {
 
 * Functions
 
-[[file:./assets/Pasted image 20241016134252.png]]
+[[file:./assets/Pasted-image-20241016134252.png]]
 
 
-[[file:./assets/Pasted image 20241016160718.png]]
+[[file:./assets/Pasted-image-20241016160718.png]]
 * "&"  - Address of
-[[file:./assets/Pasted image 20241016144815.png]]
+[[file:./assets/Pasted-image-20241016144815.png]]
 
 * Pass Argument as "Value"
 
-[[file:./assets/Pasted image 20241016212104.png]]
+[[file:./assets/Pasted-image-20241016212104.png]]
 
 * References - "&"
-[[file:./assets/Pasted image 20241016221655.png]]
-[[file:./assets/Pasted image 20241016234358.png]]
+[[file:./assets/Pasted-image-20241016221655.png]]
+[[file:./assets/Pasted-image-20241016234358.png]]
 
 * Pointers - In New File
 
 * Type Def
 
 
-[[file:./assets/Pasted image 20241017145532.png]]
+[[file:./assets/Pasted-image-20241017145532.png]]
 
 
 * Std::functions
 
-[[file:./assets/Pasted image 20241017145642.png]]
+[[file:./assets/Pasted-image-20241017145642.png]]

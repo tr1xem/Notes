@@ -1,11 +1,11 @@
 * Classes part 10 - Rule of Five - Have fun reducing memory allocations!
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241027175435.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241027175435.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241027181217.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241027181217.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241027181242.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241027181242.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241027181350.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241027181350.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241027181726.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241027181726.png]]

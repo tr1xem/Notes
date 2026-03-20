@@ -4,6 +4,6 @@
 
 std::is_const just checks if its const or not 
 
-[[file:./assets/Pasted image 20260213153206.png]]
+[[file:./assets/Pasted-image-20260213153206.png]]
 
 std::is_const_v is inline version

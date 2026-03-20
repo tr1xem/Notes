@@ -4,14 +4,14 @@
 
 * Lvalue and Rvalue
 
-[[file:./assets/Pasted image 20241018124107.png]]
+[[file:./assets/Pasted-image-20241018124107.png]]
 
-[[file:./assets/Pasted image 20241018124327.png]]
+[[file:./assets/Pasted-image-20241018124327.png]]
 sometimes (a+b) is called xvalue (expiring value)
 
 ** Lvalue Reference
 
-[[file:./assets/Pasted image 20241018124804.png]]
+[[file:./assets/Pasted-image-20241018124804.png]]
 #+BEGIN_SRC cpp
 const int& ref = 10; // works
 int& ref = 10; // gives error
@@ -20,7 +20,7 @@ in const compiler creates a tmp var and equals it to 10
 
 ** Rvalue Reference
 
-[[file:./assets/Pasted image 20241018125700.png]]
+[[file:./assets/Pasted-image-20241018125700.png]]
 
 #+BEGIN_SRC cpp
 
@@ -32,10 +32,10 @@ std::string&& s3 = s1+s2; // will just reference to the value of concat
 * std::move or  the idea of move semantics
 
 
-[[file:./assets/Pasted image 20241018130557.png]]
+[[file:./assets/Pasted-image-20241018130557.png]]
 
 * Interface (.hpp) vs Implementation (.cpp)
 
-[[file:./assets/Pasted image 20241018133918.png]]
+[[file:./assets/Pasted-image-20241018133918.png]]
 
-[[file:./assets/Pasted image 20241018134321.png]]
+[[file:./assets/Pasted-image-20241018134321.png]]

@@ -6,6 +6,6 @@
 
 Here its showing dynamically allocated array as 8 because its just it stores the pointer to the memory location where its being allocated
 
-[[file:./assets/snapshot 1.jpg]]
+[[file:./assets/snapshot-1.jpg]]
 
 here for vectors sizeof is just showing the size of data structure which is vector

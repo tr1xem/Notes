@@ -5,7 +5,7 @@
 
 De-referencing nullptr
 
-[[file:./assets/Pasted image 20260213180335.png]]
+[[file:./assets/Pasted-image-20260213180335.png]]
 
 ** Pitfall 2 - Memory leaks
 

@@ -3,5 +3,5 @@
 * References in C++ (Another use of the & symbol)
 
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241016221655.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241016221655.png]]
 Here X and Ref both is same change in x would be reflected in ref and vice versa

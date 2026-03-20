@@ -2,4 +2,4 @@
 
 * C++ Functions - Understand Pass by Reference (&)  Semantics
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241016234358.png]]
+[[file:./../00---Old-Notes/assets/Pasted-image-20241016234358.png]]

@@ -1,3 +1,3 @@
 * Generics in C++ 2 - Template Functions (Abbreviated function templates)
 
-[[file:./assets/Pasted image 20260216143047.png]]
+[[file:./assets/Pasted-image-20260216143047.png]]
