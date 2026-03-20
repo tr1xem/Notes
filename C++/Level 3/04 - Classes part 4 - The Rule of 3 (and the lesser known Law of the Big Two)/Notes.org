@@ -1,7 +1,7 @@
 * Classes part 4 - The Rule of 3 (and the lesser known Law of the Big Two)
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241021214340.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241021214340.png]]
 
 Law of big two
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241021214828.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241021214828.png]]

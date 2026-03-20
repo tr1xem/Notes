@@ -2,8 +2,8 @@
 
 * C++ Functions - Understanding Pass by Value Semantics
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241016134252.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241016134252.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241016160718.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241016160718.png]]
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241016212104.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241016212104.png]]

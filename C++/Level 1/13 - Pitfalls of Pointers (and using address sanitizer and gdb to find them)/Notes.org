@@ -5,7 +5,7 @@
 
 De-referencing nullptr
 
-[[file:./assets/Pasted image 20260213180335.png][image]]
+[[file:./assets/Pasted image 20260213180335.png]]
 
 ** Pitfall 2 - Memory leaks
 
@@ -13,7 +13,7 @@ Allocating and never freeing memory
 
 ** Pitfall 3 - Dangling pointer
 
-[[file:./assets/snapshot.jpg][image]]
+[[file:./assets/snapshot.jpg]]
 
 ** Pitfall 4 - Double free
 

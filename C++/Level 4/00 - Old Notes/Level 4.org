@@ -2,46 +2,46 @@
 
 * Value Initialization (Zero-Initialization of Member Variables)
 
-[[file:./assets/Pasted image 20241209214213.png][image]]
+[[file:./assets/Pasted image 20241209214213.png]]
 
 
 dosent work with constructors
-[[file:./assets/Pasted image 20241209214517.png][image]]
+[[file:./assets/Pasted image 20241209214517.png]]
 
-[[file:./assets/Pasted image 20241209214723.png][image]]
+[[file:./assets/Pasted image 20241209214723.png]]
 
 * ### In-Class Initializer
 
-[[file:./assets/Pasted image 20241210132049.png][image]]
+[[file:./assets/Pasted image 20241210132049.png]]
 
-[[file:./assets/Pasted image 20241210132142.png][image]]
+[[file:./assets/Pasted image 20241210132142.png]]
 
 
 * ###  Delegating Constructors
 
 DRY = Dont repeat yourself
 
-[[file:./assets/Pasted image 20241210134125.png][image]]
+[[file:./assets/Pasted image 20241210134125.png]]
 
 
 
-[[file:./assets/Pasted image 20241210134203.png][image]]
+[[file:./assets/Pasted image 20241210134203.png]]
 
 Good:
 
-[[file:./assets/Pasted image 20241210134342.png][image]]
+[[file:./assets/Pasted image 20241210134342.png]]
 
-[[file:./assets/Pasted image 20241210134515.png][image]]
+[[file:./assets/Pasted image 20241210134515.png]]
 
 * ### - Class Data Layout (Optimizing for size)
 
-[[file:./assets/Pasted image 20250106201457.png][image]]
+[[file:./assets/Pasted image 20250106201457.png]]
 
-[[file:./assets/Pasted image 20250106201953.png][image]]
+[[file:./assets/Pasted image 20250106201953.png]]
 
 * ###  pIMPL (pointer to implementation)
 
-[[file:./assets/Pasted image 20250106202531.png][image]]
+[[file:./assets/Pasted image 20250106202531.png]]
 
-[[file:./assets/Pasted image 20250106202840.png][image]]
-[[file:./assets/Pasted image 20250106203032.png][image]]
+[[file:./assets/Pasted image 20250106202840.png]]
+[[file:./assets/Pasted image 20250106203032.png]]

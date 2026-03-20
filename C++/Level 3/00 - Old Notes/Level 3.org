@@ -2,203 +2,203 @@
 
 A class is a user defined type
 
-[[file:./assets/Pasted image 20241018155711.png][image]]
+[[file:./assets/Pasted image 20241018155711.png]]
 
-[[file:./assets/Pasted image 20241018155957.png][image]]
+[[file:./assets/Pasted image 20241018155957.png]]
 
-[[file:./assets/Pasted image 20241018160549.png][image]]
+[[file:./assets/Pasted image 20241018160549.png]]
 
 * Default Constructor and destructor
 
-[[file:./assets/Pasted image 20241018204646.png][image]]
-[[file:./assets/Pasted image 20241018204856.png][image]]
+[[file:./assets/Pasted image 20241018204646.png]]
+[[file:./assets/Pasted image 20241018204856.png]]
 
 * Copy Constructor and Copy Assignment
 
 
-[[file:./assets/Pasted image 20241018215148.png][image]]
+[[file:./assets/Pasted image 20241018215148.png]]
 
-[[file:./assets/Pasted image 20241018215339.png][image]]
-
-
-[[file:./assets/Pasted image 20241018215842.png][image]]
-
-[[file:./assets/Pasted image 20241018221338.png][image]]
-
-[[file:./assets/Pasted image 20241018221422.png][image]]
+[[file:./assets/Pasted image 20241018215339.png]]
 
 
-[[file:./assets/Pasted image 20241018221700.png][image]]
+[[file:./assets/Pasted image 20241018215842.png]]
 
-[[file:./assets/Pasted image 20241018222149.png][image]]
+[[file:./assets/Pasted image 20241018221338.png]]
+
+[[file:./assets/Pasted image 20241018221422.png]]
+
+
+[[file:./assets/Pasted image 20241018221700.png]]
+
+[[file:./assets/Pasted image 20241018222149.png]]
 
 * The Rule of 3 and The Rule of 2
 
-[[file:./assets/Pasted image 20241021214340.png][image]]
+[[file:./assets/Pasted image 20241021214340.png]]
 
 Law of big two
 
-[[file:./assets/Pasted image 20241021214828.png][image]]
+[[file:./assets/Pasted image 20241021214828.png]]
 
 * Avoiding copies
 
 
-[[file:./assets/Pasted image 20241021222254.png][image]]
+[[file:./assets/Pasted image 20241021222254.png]]
 
-[[file:./assets/Pasted image 20241021223043.png][image]]
+[[file:./assets/Pasted image 20241021223043.png]]
 
-[[file:./assets/Pasted image 20241021223204.png][image]]
+[[file:./assets/Pasted image 20241021223204.png]]
 
 Better use reference
 
 
 * Operator overloading
 
-[[file:./assets/Pasted image 20241023213822.png][image]]
+[[file:./assets/Pasted image 20241023213822.png]]
 
-[[file:./assets/Pasted image 20241023214955.png][image]]
+[[file:./assets/Pasted image 20241023214955.png]]
 
-[[file:./assets/Pasted image 20241023215104.png][image]]
+[[file:./assets/Pasted image 20241023215104.png]]
 
 ++ operator
 
-[[file:./assets/Pasted image 20241023215846.png][image]]
+[[file:./assets/Pasted image 20241023215846.png]]
 
 Stream operator
 
-[[file:./assets/Pasted image 20241023220033.png][image]]
+[[file:./assets/Pasted image 20241023220033.png]]
 
-[[file:./assets/Pasted image 20241023220529.png][image]]
+[[file:./assets/Pasted image 20241023220529.png]]
 
 
 * Member Initializer Lists
 
-[[file:./assets/Pasted image 20241023221901.png][image]]
+[[file:./assets/Pasted image 20241023221901.png]]
 
-[[file:./assets/Pasted image 20241023222208.png][image]]
+[[file:./assets/Pasted image 20241023222208.png]]
 
 float x,y,z; order matters
 
 * Structs
 
-[[file:./assets/Pasted image 20241025061609.png][image]]
+[[file:./assets/Pasted image 20241025061609.png]]
 
 * RAII -Resource Acquisition is Initialization
 
-[[file:./assets/Pasted image 20241027172912.png][image]]
+[[file:./assets/Pasted image 20241027172912.png]]
 
 RAII -- Resource Acquisition is Initialization. This programming concept of RAII is as simple as acquiring resources in the constructor, and releasing any resources that were acquired in the destructor. Understanding that using the lifetime of an object to prevent resource leaks and otherwise handle exceptions is the importance of this concept for writing code that can scale through the lifetime of a project.
 
 
 * Rule of Five
 
-[[file:./assets/Pasted image 20241027175435.png][image]]
+[[file:./assets/Pasted image 20241027175435.png]]
 
 
-[[file:./assets/Pasted image 20241027181217.png][image]]
+[[file:./assets/Pasted image 20241027181217.png]]
 
-[[file:./assets/Pasted image 20241027181242.png][image]]
+[[file:./assets/Pasted image 20241027181242.png]]
 
-[[file:./assets/Pasted image 20241027181350.png][image]]
+[[file:./assets/Pasted image 20241027181350.png]]
 
-[[file:./assets/Pasted image 20241027181726.png][image]]
+[[file:./assets/Pasted image 20241027181726.png]]
 
 * friend functions - Dont use them
 
-[[file:./assets/Pasted image 20241027221713.png][image]]
+[[file:./assets/Pasted image 20241027221713.png]]
 
 
 * Explicit constructors and list initialization to avoid conversions
 
-[[file:./assets/Pasted image 20241029221125.png][image]]
+[[file:./assets/Pasted image 20241029221125.png]]
 
-[[file:./assets/Pasted image 20241029221224.png][image]]
+[[file:./assets/Pasted image 20241029221224.png]]
 
 * Inheritence
 
-[[file:./assets/Pasted image 20241029222931.png][image]]
+[[file:./assets/Pasted image 20241029222931.png]]
 
-[[file:./assets/Pasted image 20241029223223.png][image]]
+[[file:./assets/Pasted image 20241029223223.png]]
 
-[[file:./assets/Pasted image 20241029223421.png][image]]
+[[file:./assets/Pasted image 20241029223421.png]]
 
 * Inheritance - public, private, and protected access levels
 
-[[file:./assets/Pasted image 20241031225012.png][image]]
+[[file:./assets/Pasted image 20241031225012.png]]
 
-[[file:./assets/Pasted image 20241031225214.png][image]]
+[[file:./assets/Pasted image 20241031225214.png]]
 
 Protected cant be accessed  form outside the class
 
-[[file:./assets/Pasted image 20241031225355.png][image]]
+[[file:./assets/Pasted image 20241031225355.png]]
 
-[[file:./assets/Pasted image 20241031225659.png][image]]
+[[file:./assets/Pasted image 20241031225659.png]]
 
 * Inheritance calling different constructors
 
 
-[[file:./assets/Pasted image 20241101201530.png][image]]
+[[file:./assets/Pasted image 20241101201530.png]]
 
-[[file:./assets/Pasted image 20241101201944.png][image]]
+[[file:./assets/Pasted image 20241101201944.png]]
 
 * Virtual Funcs
 
 
-[[file:./assets/Pasted image 20241101204555.png][image]]
+[[file:./assets/Pasted image 20241101204555.png]]
 
-[[file:./assets/Pasted image 20241101211544.png][image]]
+[[file:./assets/Pasted image 20241101211544.png]]
 
 
-[[file:./assets/Pasted image 20241101213844.png][image]]
+[[file:./assets/Pasted image 20241101213844.png]]
 
-[[file:./assets/Pasted image 20241101214102.png][image]]
+[[file:./assets/Pasted image 20241101214102.png]]
 
 * Virtual Destructors
 
-[[file:./assets/Pasted image 20241101221301.png][image]]
+[[file:./assets/Pasted image 20241101221301.png]]
 
 * Vtables
 
 
-[[file:./assets/Pasted image 20241119162654.png][image]]
+[[file:./assets/Pasted image 20241119162654.png]]
 
-[[file:./assets/Pasted image 20241119162811.png][image]]
+[[file:./assets/Pasted image 20241119162811.png]]
 
 * Interfaces
 
-[[file:./assets/Pasted image 20241208195028.png][image]]
+[[file:./assets/Pasted image 20241208195028.png]]
 
-[[file:./assets/Pasted image 20241208201548.png][image]]
+[[file:./assets/Pasted image 20241208201548.png]]
 
 * CAUTION Multiple Inheritance
 
-[[file:./assets/Pasted image 20241208205236.png][image]]
+[[file:./assets/Pasted image 20241208205236.png]]
 
-[[file:./assets/Pasted image 20241208210757.png][image]]
+[[file:./assets/Pasted image 20241208210757.png]]
 
 * Const correctness
 
-[[file:./assets/Pasted image 20241208213452.png][image]]
+[[file:./assets/Pasted image 20241208213452.png]]
 
 
-[[file:./assets/Pasted image 20241208213543.png][image]]
+[[file:./assets/Pasted image 20241208213543.png]]
 
 * Curly brace versus parenthesis and std::initializer_list
 
-[[file:./assets/Pasted image 20241208214919.png][image]]
+[[file:./assets/Pasted image 20241208214919.png]]
 
-[[file:./assets/Pasted image 20241208215333.png][image]]
+[[file:./assets/Pasted image 20241208215333.png]]
 
 * ### Composition (and aggregation) versus Inheritance in C++
 
-[[file:./assets/Pasted image 20241208220403.png][image]]
+[[file:./assets/Pasted image 20241208220403.png]]
 
-[[file:./assets/Pasted image 20241208220630.png][image]]
+[[file:./assets/Pasted image 20241208220630.png]]
 
 * ###  Multiple Inheritance Revisited (Virtual inheritance)
 
-[[file:./assets/Pasted image 20241208220931.png][image]]
+[[file:./assets/Pasted image 20241208220931.png]]
 
 
-[[file:./assets/Pasted image 20241208221137.png][image]]
-[[file:./assets/Pasted image 20241208221202.png][image]]
+[[file:./assets/Pasted image 20241208221137.png]]
+[[file:./assets/Pasted image 20241208221202.png]]

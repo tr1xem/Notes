@@ -2,7 +2,7 @@
 
 ** *define DEBUG* debugging
 
-[[file:./assets/mpv-shot0004.jpg][image]]
+[[file:./assets/mpv-shot0004.jpg]]
 
 Add a flag -g in =g++ -g main.c -o main= to add debugging flags
 
@@ -21,12 +21,12 @@ Add a =-o0= to have no compiler optimisation
 
 ** 003 Printing Values and Listing Source Code
 
-[[file:./assets/mpv-shot0004.jpg][image]]
+[[file:./assets/mpv-shot0004.jpg]]
 
-[[file:./assets/mpv-shot0005.jpg][image]]
+[[file:./assets/mpv-shot0005.jpg]]
 
    ^ Print like refrence
 
 
-[[file:./assets/mpv-shot0008.jpg][image]]
+[[file:./assets/mpv-shot0008.jpg]]
 

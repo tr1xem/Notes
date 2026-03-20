@@ -5,13 +5,13 @@ To be opened in Org
 
 * Index
 ** C++
-[[file:./assets/cpp-playlist.png][image]]
+[[file:./assets/cpp-playlist.png]]
 
 
 Following Mike Shah's C++ playlist: [[https://www.youtube.com/playlist?list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L]]
 
 ** Debugging in GDB
-[[file:./assets/debugging.png][image]]
+[[file:./assets/debugging.png]]
 
 
 Udemy course from Mike Shah : [[https://courses.mshah.io/]]
@@ -19,4 +19,4 @@ Udemy course from Mike Shah : [[https://courses.mshah.io/]]
 * Other Resources
 - [[https://www.youtube.com/playlist?list=PLvv0ScY6vfd_ocTP2ZLicgqKnvq50OCXM][Modern C++ (cpp) Concurrency]]
 
-  [[file:./assets/concurrency.png][image]]
+  [[file:./assets/concurrency.png]]

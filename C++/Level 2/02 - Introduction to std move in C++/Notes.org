@@ -2,5 +2,5 @@
 
 * Introduction to std::move in C++
 
-[[file:./assets/snapshot.jpg][image]]
+[[file:./assets/snapshot.jpg]]
 CRAZYYYY!!!

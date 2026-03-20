@@ -1,6 +1,6 @@
 * Classes part 3 - Copy Constructor, Copy Assignment(Deep and Shallow Copy)
 
 
-[[file:./../00 - Old Notes/assets/Pasted image 20241018215339.png][image]]
-[[file:./../00 - Old Notes/assets/Pasted image 20241018221422.png][image]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241018215339.png]]
+[[file:./../00 - Old Notes/assets/Pasted image 20241018221422.png]]
  

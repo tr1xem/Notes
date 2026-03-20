@@ -2,4 +2,4 @@
 
 * std::weak_ptr - A non-owning smart pointer
 
-[[file:./assets/Pasted image 20260214144327.png][image]]
+[[file:./assets/Pasted image 20260214144327.png]]

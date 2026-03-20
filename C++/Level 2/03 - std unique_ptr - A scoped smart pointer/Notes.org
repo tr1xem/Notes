@@ -4,15 +4,15 @@
 
 ** The Problems
 
-[[file:./assets/snapshot.jpg][image]]
+[[file:./assets/snapshot.jpg]]
 
 \*ptr2 could have been something random as array is already deleted.
 
 **Smart pointers solves all of this**
 
 -- They delete themself once out of scope
-[[file:./assets/Pasted image 20260213205334.png][image]]
+[[file:./assets/Pasted image 20260213205334.png]]
 
-[[file:./assets/Pasted image 20260214133728.png][image]]
+[[file:./assets/Pasted image 20260214133728.png]]
 
-[[file:./assets/Pasted image 20260214134203.png][image]]
+[[file:./assets/Pasted image 20260214134203.png]]

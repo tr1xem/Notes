@@ -4,4 +4,4 @@
 -- When we are doing `arrray[2]` we are just off-setting array by `2 * size of the datatype` which is equivalent to `array+2` or `px++;px++` 
 -- So we can say that array just stores starting memory location of the chunk
 
-[[file:./assets/Pasted image 20260213173910.png][image]]
+[[file:./assets/Pasted image 20260213173910.png]]

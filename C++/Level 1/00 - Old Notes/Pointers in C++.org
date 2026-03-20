@@ -4,190 +4,190 @@
 
 Simple Example:
 
-[[file:./assets/Pasted image 20241017122807.png][image]]
+[[file:./assets/Pasted image 20241017122807.png]]
 
 * What is Pointer?
 
-[[file:./assets/Pasted image 20241017123410.png][image]]
+[[file:./assets/Pasted image 20241017123410.png]]
 
 
-[[file:./assets/Pasted image 20241017123705.png][image]]
+[[file:./assets/Pasted image 20241017123705.png]]
 
 
 * Visualising The Program
 
 
-[[file:./assets/Pasted image 20241017124508.png][image]]
+[[file:./assets/Pasted image 20241017124508.png]]
 
 * Visualising the Memory
 
-[[file:./assets/Pasted image 20241017124840.png][image]]
+[[file:./assets/Pasted image 20241017124840.png]]
 
 
-[[file:./assets/Pasted image 20241017125218.png][image]]
+[[file:./assets/Pasted image 20241017125218.png]]
 
 * Deferenceing
 
 
-[[file:./assets/Pasted image 20241017125301.png][image]]
+[[file:./assets/Pasted image 20241017125301.png]]
 
-[[file:./assets/Pasted image 20241017125952.png][image]]
+[[file:./assets/Pasted image 20241017125952.png]]
 
 ** Use of asterisk
 
-[[file:./assets/Pasted image 20241017125345.png][image]]
+[[file:./assets/Pasted image 20241017125345.png]]
 
 * Summary
 
-[[file:./assets/Pasted image 20241017125652.png][image]]
+[[file:./assets/Pasted image 20241017125652.png]]
 
 
 * Pointer to Pointer
 
-[[file:./assets/Pasted image 20241017130116.png][image]]
+[[file:./assets/Pasted image 20241017130116.png]]
 
 
 * Sharing Pointers
 
-[[file:./assets/Pasted image 20241017131746.png][image]]
+[[file:./assets/Pasted image 20241017131746.png]]
 
 *** Arrow Syntax
 
-[[file:./assets/Pasted image 20241017131910.png][image]]
+[[file:./assets/Pasted image 20241017131910.png]]
 
 
 * Pass by pointers
 
 
-[[file:./assets/Pasted image 20241017132102.png][image]]
+[[file:./assets/Pasted image 20241017132102.png]]
 
 Notes:
 
-[[file:./assets/Pasted image 20241017132218.png][image]]
+[[file:./assets/Pasted image 20241017132218.png]]
 
 
 * Pointers VS Array
 
 
 Imp Example : Sizeof
-[[file:./assets/Pasted image 20241017132516.png][image]]
+[[file:./assets/Pasted image 20241017132516.png]]
 
-[[file:./assets/Pasted image 20241017132559.png][image]]
+[[file:./assets/Pasted image 20241017132559.png]]
 
 *** Pointers Arithmetic
-[[file:./assets/Pasted image 20241017132754.png][image]]
+[[file:./assets/Pasted image 20241017132754.png]]
 
 
 * Array offset and deference
 
-[[file:./assets/Pasted image 20241017132919.png][image]]
+[[file:./assets/Pasted image 20241017132919.png]]
 
 
 * Array Decay to pointers
 
 
-[[file:./assets/Pasted image 20241017133623.png][image]]
+[[file:./assets/Pasted image 20241017133623.png]]
 
-[[file:./assets/Pasted image 20241017133903.png][image]]
+[[file:./assets/Pasted image 20241017133903.png]]
 
 
-[[file:./assets/Pasted image 20241017134047.png][image]]
-[[file:./assets/Pasted image 20241017134120.png][image]]
+[[file:./assets/Pasted image 20241017134047.png]]
+[[file:./assets/Pasted image 20241017134120.png]]
 
 Fix to not let array decay into pointers
-[[file:./assets/Pasted image 20241017134245.png][image]]
+[[file:./assets/Pasted image 20241017134245.png]]
 
 * Passing Array with template parameter
 
-[[file:./assets/Pasted image 20241017134530.png][image]]
+[[file:./assets/Pasted image 20241017134530.png]]
 
 * Dynamically Located Arrays
 
 
-[[file:./assets/Pasted image 20241017134559.png][image]]
+[[file:./assets/Pasted image 20241017134559.png]]
 
 
 * Null Pointers
 
-[[file:./assets/Pasted image 20241017135627.png][image]]
+[[file:./assets/Pasted image 20241017135627.png]]
 
 Fix:
 
-[[file:./assets/Pasted image 20241017135731.png][image]]
+[[file:./assets/Pasted image 20241017135731.png]]
 
 * Pitfalls of using Pointers
 
 
-[[file:./assets/Pasted image 20241017135807.png][image]]
+[[file:./assets/Pasted image 20241017135807.png]]
 
 ** 1.) Memory leaks
 
-[[file:./assets/Pasted image 20241017135949.png][image]]
-[[file:./assets/Pasted image 20241017140002.png][image]]
+[[file:./assets/Pasted image 20241017135949.png]]
+[[file:./assets/Pasted image 20241017140002.png]]
 
 ** 2.) Dangling Pointers
 
 
-[[file:./assets/Pasted image 20241017140054.png][image]]
+[[file:./assets/Pasted image 20241017140054.png]]
 
 ** 3.) Double Frees
 
-[[file:./assets/Pasted image 20241017140213.png][image]]
+[[file:./assets/Pasted image 20241017140213.png]]
 
 
 ** And Many More..
 
-[[file:./assets/Pasted image 20241017140329.png][image]]
+[[file:./assets/Pasted image 20241017140329.png]]
 
 
 * Bugs Mitigation with a wrapper class
 
 
-[[file:./assets/Pasted image 20241017140412.png][image]]
+[[file:./assets/Pasted image 20241017140412.png]]
 
 
 * Smart Pointers
 
-[[file:./assets/Pasted image 20241017140456.png][image]]
+[[file:./assets/Pasted image 20241017140456.png]]
 
 
-[[file:./assets/Pasted image 20241017140524.png][image]]
+[[file:./assets/Pasted image 20241017140524.png]]
 
-[[file:./assets/Pasted image 20241017140540.png][image]]
+[[file:./assets/Pasted image 20241017140540.png]]
 
-[[file:./assets/Pasted image 20241017140603.png][image]]
+[[file:./assets/Pasted image 20241017140603.png]]
 
-[[file:./assets/Pasted image 20241017140635.png][image]]
+[[file:./assets/Pasted image 20241017140635.png]]
 
-[[file:./assets/Pasted image 20241017141017.png][image]]
+[[file:./assets/Pasted image 20241017141017.png]]
 
-[[file:./assets/Pasted image 20241017141055.png][image]]
+[[file:./assets/Pasted image 20241017141055.png]]
 
-[[file:./assets/Pasted image 20241017141145.png][image]]
+[[file:./assets/Pasted image 20241017141145.png]]
 
-[[file:./assets/Pasted image 20241017141203.png][image]]
+[[file:./assets/Pasted image 20241017141203.png]]
 
 
 * Pointers and functions
 
 
-[[file:./assets/Pasted image 20241017141228.png][image]]
-[[file:./assets/Pasted image 20241017143752.png][image]]
+[[file:./assets/Pasted image 20241017141228.png]]
+[[file:./assets/Pasted image 20241017143752.png]]
 
-[[file:./assets/Pasted image 20241017143805.png][image]]
+[[file:./assets/Pasted image 20241017143805.png]]
 
 
-[[file:./assets/Pasted image 20241017144118.png][image]]
+[[file:./assets/Pasted image 20241017144118.png]]
 
-[[file:./assets/Pasted image 20241017144156.png][image]]
+[[file:./assets/Pasted image 20241017144156.png]]
 
-[[file:./assets/Pasted image 20241017144317.png][image]]
+[[file:./assets/Pasted image 20241017144317.png]]
 
 * Conclusions
 
 
-[[file:./assets/Pasted image 20241017144410.png][image]]
-[[file:./assets/Pasted image 20241017144441.png][image]]
+[[file:./assets/Pasted image 20241017144410.png]]
+[[file:./assets/Pasted image 20241017144441.png]]
 
 
 
