@@ -191,7 +191,7 @@ Fix:
 
 
 
-  Full File : [[:assets/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf:][CPPCON 2021 Back to Basics - Pointers]]
+Full File : [[assets/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf][CPPCON 2021 Back to Basics - Pointers]]
 
 
 Codes : https://github.com/MikeShah/cppcon2021
