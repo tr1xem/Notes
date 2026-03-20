@@ -1,0 +1,7 @@
+* Classes part 15 - Inheritance calling different constructors
+
+* CAUTION Multiple Inheritance
+
+[[file:./../00 - Old Notes/assets/Pasted image 20241208205236.png][image]]
+
+[[file:./../00 - Old Notes/assets/Pasted image 20241208210757.png][image]]

@@ -1,0 +1,9 @@
+* Classes part 16 - Virtual Functions (Dynamic dispatch)
+
+** Classes part 17 - Virtual Destructors (Make base class destructor virtual)
+
+** Classes part 18 - Understanding the vtable (Popular interview question)
+
+[[file:./assets/Pasted image 20260215165933.png][image]]
+
+[[file:./assets/Pasted image 20260215170006.png][image]]

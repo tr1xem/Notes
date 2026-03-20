@@ -1,0 +1,6 @@
+* Introduction to std move in C++
+
+* Introduction to std::move in C++
+
+[[file:./assets/snapshot.jpg][image]]
+CRAZYYYY!!!

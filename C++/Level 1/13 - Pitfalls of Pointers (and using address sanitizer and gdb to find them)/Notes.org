@@ -1,0 +1,20 @@
+* Pitfalls of Pointers (and using address sanitizer and gdb to find them)
+
+
+** Pitfall 1 - De-referencing
+
+De-referencing nullptr
+
+[[file:./assets/Pasted image 20260213180335.png][image]]
+
+** Pitfall 2 - Memory leaks
+
+Allocating and never freeing memory
+
+** Pitfall 3 - Dangling pointer
+
+[[file:./assets/snapshot.jpg][image]]
+
+** Pitfall 4 - Double free
+
+2 pointers pointing to same thing and freeing same thing :) 

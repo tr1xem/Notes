@@ -1,0 +1,32 @@
+* Mike Shah GDB Course
+
+** *define DEBUG* debugging
+
+[[file:./assets/mpv-shot0004.jpg][image]]
+
+Add a flag -g in =g++ -g main.c -o main= to add debugging flags
+
+Add a =-o0= to have no compiler optimisation
+
+** Commands
+
+- start
+- next - Run function
+- step - Step into func
+- list - Show code
+- continue - Continue till termination
+- whatis =varname= - returns type of var
+- ptype =varname= - returns more info about var like classname or struct name
+- scope info =func name= - returns var in that scope
+
+** 003 Printing Values and Listing Source Code
+
+[[file:./assets/mpv-shot0004.jpg][image]]
+
+[[file:./assets/mpv-shot0005.jpg][image]]
+
+   ^ Print like refrence
+
+
+[[file:./assets/mpv-shot0008.jpg][image]]
+

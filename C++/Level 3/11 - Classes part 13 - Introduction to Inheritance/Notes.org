@@ -1,0 +1,9 @@
+* Classes part 13 - Introduction to Inheritance
+
+[[file:./assets/Pasted image 20260215160249.png][image]]
+
+
+ protected vars can be only accessed by derived classes . Outside that they act like private members. 
+[[file:./assets/Pasted image 20260215161831.png][image]]
+
+Here for example if u derived it using private u can only access private var of the base class "outside" of the class (in implementation) 

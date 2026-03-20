@@ -1,0 +1,9 @@
+* Functions in C++ with const parameters and why bonus std is_const
+
+* Functions in C++ with const parameters and why (bonus std::is_const)
+
+std::is_const just checks if its const or not 
+
+[[file:./assets/Pasted image 20260213153206.png][image]]
+
+std::is_const_v is inline version

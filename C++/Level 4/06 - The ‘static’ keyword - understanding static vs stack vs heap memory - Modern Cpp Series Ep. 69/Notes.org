@@ -1,0 +1,5 @@
+* The ‘static’ keyword - understanding static vs stack vs heap memory - Modern Cpp Series Ep. 69
+
+[[file:./assets/Pasted image 20260216135533.png][image]]
+
+Static vars meanwhile are stored in binary itself

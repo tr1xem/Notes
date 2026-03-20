@@ -1,0 +1,2 @@
+* Dynamic Memory allocation with new and delete (and delete[])
+[[file:./assets/snapshot.jpg][image]]

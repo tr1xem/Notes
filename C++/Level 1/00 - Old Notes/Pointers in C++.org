@@ -1,0 +1,197 @@
+* Old Notes
+
+*** Pointers
+
+Simple Example:
+
+[[file:./assets/Pasted image 20241017122807.png][image]]
+
+* What is Pointer?
+
+[[file:./assets/Pasted image 20241017123410.png][image]]
+
+
+[[file:./assets/Pasted image 20241017123705.png][image]]
+
+
+* Visualising The Program
+
+
+[[file:./assets/Pasted image 20241017124508.png][image]]
+
+* Visualising the Memory
+
+[[file:./assets/Pasted image 20241017124840.png][image]]
+
+
+[[file:./assets/Pasted image 20241017125218.png][image]]
+
+* Deferenceing
+
+
+[[file:./assets/Pasted image 20241017125301.png][image]]
+
+[[file:./assets/Pasted image 20241017125952.png][image]]
+
+** Use of asterisk
+
+[[file:./assets/Pasted image 20241017125345.png][image]]
+
+* Summary
+
+[[file:./assets/Pasted image 20241017125652.png][image]]
+
+
+* Pointer to Pointer
+
+[[file:./assets/Pasted image 20241017130116.png][image]]
+
+
+* Sharing Pointers
+
+[[file:./assets/Pasted image 20241017131746.png][image]]
+
+*** Arrow Syntax
+
+[[file:./assets/Pasted image 20241017131910.png][image]]
+
+
+* Pass by pointers
+
+
+[[file:./assets/Pasted image 20241017132102.png][image]]
+
+Notes:
+
+[[file:./assets/Pasted image 20241017132218.png][image]]
+
+
+* Pointers VS Array
+
+
+Imp Example : Sizeof
+[[file:./assets/Pasted image 20241017132516.png][image]]
+
+[[file:./assets/Pasted image 20241017132559.png][image]]
+
+*** Pointers Arithmetic
+[[file:./assets/Pasted image 20241017132754.png][image]]
+
+
+* Array offset and deference
+
+[[file:./assets/Pasted image 20241017132919.png][image]]
+
+
+* Array Decay to pointers
+
+
+[[file:./assets/Pasted image 20241017133623.png][image]]
+
+[[file:./assets/Pasted image 20241017133903.png][image]]
+
+
+[[file:./assets/Pasted image 20241017134047.png][image]]
+[[file:./assets/Pasted image 20241017134120.png][image]]
+
+Fix to not let array decay into pointers
+[[file:./assets/Pasted image 20241017134245.png][image]]
+
+* Passing Array with template parameter
+
+[[file:./assets/Pasted image 20241017134530.png][image]]
+
+* Dynamically Located Arrays
+
+
+[[file:./assets/Pasted image 20241017134559.png][image]]
+
+
+* Null Pointers
+
+[[file:./assets/Pasted image 20241017135627.png][image]]
+
+Fix:
+
+[[file:./assets/Pasted image 20241017135731.png][image]]
+
+* Pitfalls of using Pointers
+
+
+[[file:./assets/Pasted image 20241017135807.png][image]]
+
+** 1.) Memory leaks
+
+[[file:./assets/Pasted image 20241017135949.png][image]]
+[[file:./assets/Pasted image 20241017140002.png][image]]
+
+** 2.) Dangling Pointers
+
+
+[[file:./assets/Pasted image 20241017140054.png][image]]
+
+** 3.) Double Frees
+
+[[file:./assets/Pasted image 20241017140213.png][image]]
+
+
+** And Many More..
+
+[[file:./assets/Pasted image 20241017140329.png][image]]
+
+
+* Bugs Mitigation with a wrapper class
+
+
+[[file:./assets/Pasted image 20241017140412.png][image]]
+
+
+* Smart Pointers
+
+[[file:./assets/Pasted image 20241017140456.png][image]]
+
+
+[[file:./assets/Pasted image 20241017140524.png][image]]
+
+[[file:./assets/Pasted image 20241017140540.png][image]]
+
+[[file:./assets/Pasted image 20241017140603.png][image]]
+
+[[file:./assets/Pasted image 20241017140635.png][image]]
+
+[[file:./assets/Pasted image 20241017141017.png][image]]
+
+[[file:./assets/Pasted image 20241017141055.png][image]]
+
+[[file:./assets/Pasted image 20241017141145.png][image]]
+
+[[file:./assets/Pasted image 20241017141203.png][image]]
+
+
+* Pointers and functions
+
+
+[[file:./assets/Pasted image 20241017141228.png][image]]
+[[file:./assets/Pasted image 20241017143752.png][image]]
+
+[[file:./assets/Pasted image 20241017143805.png][image]]
+
+
+[[file:./assets/Pasted image 20241017144118.png][image]]
+
+[[file:./assets/Pasted image 20241017144156.png][image]]
+
+[[file:./assets/Pasted image 20241017144317.png][image]]
+
+* Conclusions
+
+
+[[file:./assets/Pasted image 20241017144410.png][image]]
+[[file:./assets/Pasted image 20241017144441.png][image]]
+
+
+
+  Full File : [[:assets/Mike_Shah_CPPCON_2021_Back_to_Basics__Pointers.pdf:][CPPCON 2021 Back to Basics - Pointers]]
+
+
+Codes : https://github.com/MikeShah/cppcon2021

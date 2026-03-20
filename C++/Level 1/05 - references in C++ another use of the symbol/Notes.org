@@ -1,0 +1,7 @@
+* references in C++ another use of the symbol
+
+* References in C++ (Another use of the & symbol)
+
+
+[[file:./../00 - Old Notes/assets/Pasted image 20241016221655.png][image]]
+Here X and Ref both is same change in x would be reflected in ref and vice versa
