@@ -1,0 +1,1 @@
+* C++ Lambdas Part 3 - Capturing ‘this’ (Using lambda’s in member functions)

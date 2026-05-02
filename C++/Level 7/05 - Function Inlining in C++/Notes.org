@@ -1,0 +1,6 @@
+* Function Inlining in C++
+#+BEGIN_FIGURE
+[[file:assets/2026-05-02-15-39-01.png]]
+#+CAPTION:
+#+NAME: fig:2026-05-02-15-39-01
+#+END_FIGURE

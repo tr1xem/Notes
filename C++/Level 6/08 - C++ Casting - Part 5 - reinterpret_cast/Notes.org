@@ -1,0 +1,4 @@
+* C++ Casting - Part 5 - reinterpret_cast
+- reinterpret_cast literally interpret the bytes as what every type you decide to treat the raw bytes.
+
+

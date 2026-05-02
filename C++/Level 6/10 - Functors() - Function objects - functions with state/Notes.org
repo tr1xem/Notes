@@ -1,0 +1,4 @@
+* Functors() - Function objects - functions with state
+- Function object
+- is and function with state
+- used by =operator()=
