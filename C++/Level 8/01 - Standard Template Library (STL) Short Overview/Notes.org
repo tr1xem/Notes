@@ -1,3 +1,4 @@
 * Standard Template Library (STL) Short Overview
 [[file:assets/2026-05-02-17-40-28.png]]
 
+* STL std::string, char*, const char*, and string literals in C++
