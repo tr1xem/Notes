@@ -1,4 +1,3 @@
 * STL std::span
-
 Span is just like =string_view= but to any container such as vector etc etc
 A pointer to T and a size

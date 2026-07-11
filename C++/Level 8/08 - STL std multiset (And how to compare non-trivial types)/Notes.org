@@ -1,0 +1,6 @@
+* STL std::multiset (And how to compare non-trivial types)
+[[file:assets/2026-07-09-13-59-39.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-09-13-59-39
+#+END_FIGURE

@@ -1,0 +1,8 @@
+* STL std::unordered_set (std::algorithm generate_n for creation of sets)
+Search,insertion,deletion have avg tc of O(1)
+
+[[file:assets/2026-07-09-13-30-57.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-09-13-30-57
+#+END_FIGURE

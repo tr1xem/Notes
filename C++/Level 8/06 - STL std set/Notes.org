@@ -1,0 +1,2 @@
+* STL std::set
+Sorted set of unique object

@@ -1,0 +1,13 @@
+* STL std::forward_list
+
+It is a single linked list
+
+[[file:assets/double-vs-single.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:double-vs-single
+#+END_FIGURE
+
+#+begin_src cpp
+
+#+end_src

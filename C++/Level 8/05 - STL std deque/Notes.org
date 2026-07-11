@@ -1,0 +1,24 @@
+* STL std::deque
+Double ended queue
+FIFO
+Extending it is very very efficent
+
+
+[[file:assets/2026-07-08-22-47-21.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-08-22-47-21
+#+END_FIGURE
+[[file:assets/2026-07-08-22-58-57.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-08-22-58-57
+#+END_FIGURE
+
+
+The way how look up works in this is that it looks up into the map and then it deref to get the value at that pointer
+[[file:assets/2026-07-09-11-28-11.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-09-11-28-11
+#+END_FIGURE

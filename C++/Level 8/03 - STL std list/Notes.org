@@ -1,1 +1,63 @@
 * STL std::list
+It is a double linked list
+#+begin_src cpp
+#include <iostream>
+#include <iterator>
+#include <list>
+
+void printList(const std::list<int> &mylist) {
+  std::cout << "============" << std::endl;
+  for (const auto &ele : mylist) {
+    std::cout << ele << ",";
+  }
+  std::cout << std::endl;
+}
+
+int main() {
+  std::list<int> mylist;
+  mylist.push_back(1);
+  mylist.push_back(2);
+  mylist.push_back(3);
+  mylist.push_back(4);
+  mylist.push_back(5);
+
+  printList(mylist);
+
+  // pos - an iterator to where we want to insert
+  // value - here 10
+  mylist.insert(begin(mylist), 10);
+  mylist.insert(end(mylist), 10);
+
+  printList(mylist);
+
+  // Now we will advacne our iterator a specific no of steps
+  auto it = mylist.begin();
+
+  it = std::next(it, mylist.size() / 2);
+  // OR
+  // std::advance(it, mylist.size() / 2);
+  mylist.insert(it, 10);
+
+  printList(mylist);
+  // Merge 2 list
+  mylist.sort();
+  std::list<int> list2{2, 4, 6, 8, 10};
+
+  mylist.merge(list2);
+
+  printList(mylist);
+
+  // Splice
+  std::list<int> list3{15, 25, 35, 45, 55};
+
+  auto l3_iter = list3.begin();
+  std::advance(l3_iter, 2);
+
+  // Splice from l3_iter to end of list
+  mylist.splice(end(mylist), list3, l3_iter, end(list3));
+
+  printList(mylist);
+  printList(list3);
+  return 0;
+}
+#+end_src
