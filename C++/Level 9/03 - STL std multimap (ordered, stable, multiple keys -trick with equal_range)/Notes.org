@@ -1,0 +1,7 @@
+* STL std::multimap (ordered, stable, multiple keys -trick with equal_range)
+
+[[file:assets/2026-07-13-22-08-50.png]]
+#+BEGIN_FIGURE
+#+CAPTION:
+#+NAME: fig:2026-07-13-22-08-50
+#+END_FIGURE
